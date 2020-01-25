@@ -1,8 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+
+```shell
+yarn install
+
+# Start the UI
+yarn start
+# OR start storybook
+yarn storybook
+# OR start both!
+yarn dev
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn storybook`
+
+Runs storybook for testing your components.<br />
+Open [http://localhost:9009](http://localhost:9009) to view it in the browser.
+
+The page will reload if you make edits.
 
 ### `yarn start`
 
