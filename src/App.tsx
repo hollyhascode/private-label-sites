@@ -1,26 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Button from "@material-ui/core/Button";
+import React from "react";
+import "./App.css";
+import Container from "@material-ui/core/Container";
+import Grid from "@material-ui/core/Grid";
+import { makeStyles } from "@material-ui/core/styles";
 
-const App: React.FC = () => {
+const useStyles = makeStyles(theme => ({
+  root: {
+    flexGrow: 1,
+    textAlign: "center"
+  },
+  button: {
+    padding: theme.spacing(2),
+    color: theme.palette.text.secondary
+  }
+}));
+
+export const App: React.FC = () => {
+  const classes = useStyles();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <div className={classes.root}>
+        <Grid container spacing={3}>
+          <Grid item xs={12}>
+            <h1>I'm Serious As A Heart Attack</h1>
+            <Button
+              className="classes.button"
+              variant="contained"
+              color="primary"
+            >
+              Get Started, Dumb Ass
+            </Button>
+          </Grid>
+        </Grid>
+      </div>
+    </Container>
   );
-}
-
-export default App;
+};
