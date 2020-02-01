@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: Hello Render Static Site
+    env: static
+    buildCommand: yarn ui build
+    staticPublishPath: ./ui/build
+    # pullRequestPreviewsEnabled: true # optional
+    # headers:
+    #   - path: /*
+    #     name: X-Frame-Options
+    #     value: sameorigin
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
