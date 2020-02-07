@@ -15,9 +15,10 @@ const useStyles = createUseStyles({
   red: { color: "red" },
 });
 
-export const Heart: React.FC = () => {
+export const Heart = () => {
   const classes = useStyles();
-  return <pre className={clsx(classes.red)}>{`       .....           .....
+  return (
+    <pre className={clsx(classes.red)}>{`       .....           .....
   ,ad8PPPP88b,     ,d88PPPP8ba,
  d8P"      "Y8b, ,d8P"      "Y8b
 dP'           "8a8"           \`Yd
@@ -33,5 +34,6 @@ I8                             8I
              "8b d8"
               \`888'
                 "
-`}</pre>;
+`}</pre>
+  );
 };

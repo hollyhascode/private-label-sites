@@ -1,5 +1,5 @@
 /* eslint-disable */
-import { createMuiTheme, responsiveFontSizes } from '@material-ui/core/styles';
+import { createMuiTheme, responsiveFontSizes } from "@material-ui/core/styles";
 
 const theme = {
   typography: {
@@ -8,7 +8,7 @@ const theme = {
   },
   palette: {
     primary: {
-      main: '#3E59D9',
+      main: "#3E59D9",
     },
   },
   shape: {
@@ -16,7 +16,7 @@ const theme = {
   },
   props: {
     MuiTypography: {
-      variant: 'body1',
+      variant: "body1",
     },
   },
 };
@@ -24,7 +24,7 @@ const theme = {
 let mergedTheme = createMuiTheme(theme);
 mergedTheme = responsiveFontSizes(mergedTheme);
 
-const req = require.context('./components', true, /.js$/);
+const req = require.context("./components", true, /.js$/);
 let overrides = {};
 
 req.keys().forEach(filename => {

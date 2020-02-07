@@ -1,26 +1,21 @@
-import React, { forwardRef } from 'react';
-import PropTypes from 'prop-types';
-import Color from 'color';
-import cx from 'clsx';
-import { makeStyles } from '@material-ui/styles';
-import MuiButton from '@material-ui/core/Button';
-import Icon from 'extensions/Icon';
-import CircularProgress from '@material-ui/core/CircularProgress';
+import React, { forwardRef } from "react";
+import PropTypes from "prop-types";
+import Color from "color";
+import cx from "clsx";
+import { makeStyles } from "@material-ui/styles";
+import MuiButton from "@material-ui/core/Button";
+import Icon from "extensions/Icon";
+import CircularProgress from "@material-ui/core/CircularProgress";
 
 const getLoaderSize = size => {
-  if (size === 'small') return 16;
-  if (size === 'big') return 28;
-  if (size === 'large') return 36;
+  if (size === "small") return 16;
+  if (size === "big") return 28;
+  if (size === "large") return 36;
   return 20;
 };
 
 const injectColor = color => {
-  if (
-    color === 'inherit' ||
-    color === 'primary' ||
-    color === 'secondary' ||
-    color === 'default'
-  ) {
+  if (color === "inherit" || color === "primary" || color === "secondary" || color === "default") {
     return color;
   }
   return undefined;
@@ -42,7 +37,7 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
   const elongatedWidth = 160;
   const defaultFontWeight = 500;
   const defaultLetterSpacing = 0;
-  const defaultTextTransform = 'none';
+  const defaultTextTransform = "none";
   const invertedColor = palette.common.white;
   const outlinedBorderWidth = 1;
   const extraStyles = {
@@ -65,15 +60,14 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
 
   // ------------ !READ ONLY -------------- //
   // ---- DO NOT EDIT, MIGHT RUIN YOUR BTN ---- //
-  const iconSelector =
-    '.MuiButton-label:not([class*="-icon-isolated"]) > .material-icons, > svg';
+  const iconSelector = '.MuiButton-label:not([class*="-icon-isolated"]) > .material-icons, > svg';
   const bgIconSelector =
     // eslint-disable-next-line max-len
     '.MuiButton-label:not([class*="-icon-isolated"]) > .material-icons[class*="-bg-"], > svg[class*="-bg-"]';
   const notBgIconSelector =
     // eslint-disable-next-line max-len
     '.MuiButton-label:not([class*="-icon-isolated"]) > .material-icons:not([class*="-bg-"]), > svg:not([class*="-bg-"])';
-  const loaderSelector = '.MuiButton-label .MuiButton-loader';
+  const loaderSelector = ".MuiButton-label .MuiButton-loader";
   const mapBtnHeight = x => 36 - Math.exp(3.72 - x / 38.6);
   const getIconSize = btnHeight => {
     const icon = Math.round(mapBtnHeight(btnHeight));
@@ -100,20 +94,20 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
     [`& ${iconSelector}`]: {
       // default icon size
       fontSize: getIconSize(btnHeights[size]),
-      display: 'inline-flex',
-      justifyContent: 'center',
-      alignItems: 'center',
+      display: "inline-flex",
+      justifyContent: "center",
+      alignItems: "center",
     },
     [`& ${bgIconSelector}`]: {
-      margin: '0 !important',
+      margin: "0 !important",
       fontSize: getIconSize(btnHeights[size]) - 2,
       width: getBgIconSize(size),
       height: getBgIconSize(size),
-      '&:first-of-type': {
-        transform: 'translateX(-50%)',
+      "&:first-of-type": {
+        transform: "translateX(-50%)",
       },
-      '&:last-of-type': {
-        transform: 'translateX(50%)',
+      "&:last-of-type": {
+        transform: "translateX(50%)",
       },
     },
   });
@@ -126,139 +120,139 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
     },
     root: {
       ...extraStyles.root,
-      ...generateStylesBySize('normal'),
+      ...generateStylesBySize("normal"),
       // STANDALONE
-      '&.-color-danger': {
+      "&.-color-danger": {
         color: palette.error.main,
-        '&:hover': {
+        "&:hover": {
           backgroundColor: Color(palette.error.main)
             .fade(0.92)
             .toString(),
         },
       },
-      '&.-compact': {
+      "&.-compact": {
         paddingTop: 3,
         paddingBottom: 3,
       },
-      '&.-elongated': {
+      "&.-elongated": {
         minWidth: `${elongatedWidth}px!important`,
       },
-      '&.-inverted': {
+      "&.-inverted": {
         color: invertedColor,
-        '&:hover': {
-          background: 'rgba(255, 255, 255, 0.2)',
+        "&:hover": {
+          background: "rgba(255, 255, 255, 0.2)",
         },
       },
       // Icon
       // eslint-disable-next-line max-len
       '&[class*="-shape-rectangle"], &[class*="-shape-chubby"], &:not([class*="-shape-"])': {
         [`& ${notBgIconSelector}`]: {
-          '&:first-of-type': {
-            marginLeft: '-0.3em',
+          "&:first-of-type": {
+            marginLeft: "-0.3em",
             marginRight: 8,
           },
-          '&:last-of-type': {
-            marginRight: '-0.3em',
+          "&:last-of-type": {
+            marginRight: "-0.3em",
             marginLeft: 8,
           },
         },
       },
-      '&.-labelExpanded': {
+      "&.-labelExpanded": {
         [`& ${notBgIconSelector}`]: {
-          '&:first-of-type': {
-            marginLeft: '-0.4em',
+          "&:first-of-type": {
+            marginLeft: "-0.4em",
           },
-          '&:last-of-type': {
-            marginRight: '-0.4em',
+          "&:last-of-type": {
+            marginRight: "-0.4em",
           },
         },
-        '& .MuiButton-span': {
-          marginLeft: 'auto !important',
-          marginRight: 'auto !important',
+        "& .MuiButton-span": {
+          marginLeft: "auto !important",
+          marginRight: "auto !important",
         },
       },
-      '&.-mobileFullWidth': {
-        [breakpoints.only('xs')]: {
-          width: '100%',
+      "&.-mobileFullWidth": {
+        [breakpoints.only("xs")]: {
+          width: "100%",
         },
       },
       // loading
-      '&.-loading': {
-        pointerEvents: 'none',
-        '& .MuiButton-label': {
-          color: 'rgba(0,0,0,0)',
-          '& .MuiButton-loader': {
+      "&.-loading": {
+        pointerEvents: "none",
+        "& .MuiButton-label": {
+          color: "rgba(0,0,0,0)",
+          "& .MuiButton-loader": {
             color: palette.text.primary,
           },
         },
       },
-      '& .MuiButton-loader': {
-        position: 'absolute',
-        top: '50%',
-        left: '50%',
+      "& .MuiButton-loader": {
+        position: "absolute",
+        top: "50%",
+        left: "50%",
       },
       // sizes
-      '&.-size-small': {
-        ...generateStylesBySize('small'),
+      "&.-size-small": {
+        ...generateStylesBySize("small"),
       },
-      '&.-size-big': {
-        ...generateStylesBySize('big'),
+      "&.-size-big": {
+        ...generateStylesBySize("big"),
       },
-      '&.-size-large': {
-        ...generateStylesBySize('large'),
+      "&.-size-large": {
+        ...generateStylesBySize("large"),
       },
-      '&.-shape-chubby': {
+      "&.-shape-chubby": {
         borderRadius: 100,
-        '& .MuiButton-span': {
-          '&:first-of-type': {
-            marginLeft: '0.4em',
+        "& .MuiButton-span": {
+          "&:first-of-type": {
+            marginLeft: "0.4em",
           },
-          '&:last-of-type': {
-            marginRight: '0.4em',
+          "&:last-of-type": {
+            marginRight: "0.4em",
           },
         },
       },
-      '&.-shape-circular, &.-shape-square': {
-        borderRadius: '50%',
+      "&.-shape-circular, &.-shape-square": {
+        borderRadius: "50%",
         padding: 12,
         [`& ${iconSelector}`]: {
           margin: 0,
           fontSize: 20,
         },
       },
-      '&.-shape-square, &.-shape-rectangle': {
+      "&.-shape-square, &.-shape-rectangle": {
         borderRadius: 0,
       },
       // COMBINATION
-      '&.-shape-circular.-size-small, &.-shape-square.-size-small': {
+      "&.-shape-circular.-size-small, &.-shape-square.-size-small": {
         padding: spacing(1.25),
         // [`& ${iconSelector}`]: {
         //   fontSize: 16,
         // },
       },
-      '&.-shape-circular.-size-big, &.-shape-square.-size-big': {
+      "&.-shape-circular.-size-big, &.-shape-square.-size-big": {
         padding: spacing(1.5),
         // [`& ${iconSelector}`]: {
         //   fontSize: 28,
         // },
       },
-      '&.-shape-circular.-size-large, &.-shape-square.-size-large': {
+      "&.-shape-circular.-size-large, &.-shape-square.-size-large": {
         padding: spacing(1.75),
         // [`& ${iconSelector}`]: {
         //   fontSize: 36,
         // },
       },
-      '&.-size-big.-compact': {
+      "&.-size-big.-compact": {
         minHeight: btnHeights.big - 8,
       },
-      '&.-size-large.-compact': {
+      "&.-size-large.-compact": {
         minHeight: btnHeights.large - 8,
       },
-      '&$disabled.-inverted': {
-        borderColor: 'rgba(255, 255, 255, 0.38)',
-        color: 'rgba(255, 255, 255, 0.38)',
+      "&$disabled.-inverted": {
+        borderColor: "rgba(255, 255, 255, 0.38)",
+        color: "rgba(255, 255, 255, 0.38)",
       },
-      '&.-loading.-inverted': {
+      "&.-loading.-inverted": {
         [`& ${loaderSelector}`]: {
           color: invertedColor,
         },
@@ -268,55 +262,55 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
       padding: `0 ${btnHeights.normal / 2}px`,
     },
     contained: {
-      '&.-color-danger': {
+      "&.-color-danger": {
         backgroundColor: palette.error.main,
         color: invertedColor,
-        '&:hover': {
+        "&:hover": {
           backgroundColor: palette.error.dark,
           // Reset on touch devices, it doesn't add specificity
-          '@media (hover: none)': {
+          "@media (hover: none)": {
             backgroundColor: palette.error.dark,
           },
         },
-        '&$disabled': {
+        "&$disabled": {
           color: palette.action.disabled,
           boxShadow: shadows[0],
           backgroundColor: palette.action.disabledBackground,
         },
       },
       // No Shadow
-      '&$focusVisible.-shadowless': {
-        boxShadow: 'none',
+      "&$focusVisible.-shadowless": {
+        boxShadow: "none",
       },
-      '&.-shadowless': {
-        boxShadow: 'none',
-        '&:active': {
-          boxShadow: 'none',
+      "&.-shadowless": {
+        boxShadow: "none",
+        "&:active": {
+          boxShadow: "none",
         },
       },
       // ---------
-      '&.-inverted': {
-        transition: 'unset',
-        backgroundColor: 'unset',
+      "&.-inverted": {
+        transition: "unset",
+        backgroundColor: "unset",
         color: invertedColor,
         borderWidth: outlinedBorderWidth,
-        borderStyle: 'solid',
+        borderStyle: "solid",
         borderColor: invertedColor,
-        '&:hover': {
+        "&:hover": {
           background: invertedColor,
           color: palette.text.primary,
         },
-        '& .MuiButton-label': {
-          fontWeight: 'bold',
+        "& .MuiButton-label": {
+          fontWeight: "bold",
         },
       },
     },
     containedPrimary: {
       ...extraStyles.containedPrimary,
-      '&.-inverted': {
+      "&.-inverted": {
         borderColor: palette.primary.main,
         color: palette.primary.main,
-        '&:hover': {
+        "&:hover": {
           background: palette.primary.main,
           color: palette.common.white,
         },
@@ -327,10 +321,10 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
     },
     containedSecondary: {
       ...extraStyles.containedSecondary,
-      '&.-inverted': {
+      "&.-inverted": {
         borderColor: palette.secondary.main,
         color: palette.secondary.main,
-        '&:hover': {
+        "&:hover": {
           background: palette.secondary.main,
           color: palette.common.white,
         },
@@ -340,37 +334,37 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
       },
     },
     outlined: {
-      '&.-color-danger': {
+      "&.-color-danger": {
         borderColor: Color(palette.error.main)
           .fade(0.5)
           .toString(),
-        '&:hover': {
+        "&:hover": {
           borderColor: palette.error.main,
         },
       },
-      '&.-inverted': {
+      "&.-inverted": {
         borderWidth: outlinedBorderWidth,
-        transition: 'unset',
-        borderColor: 'rgba(255, 255, 255, 0.54)',
-        color: 'rgba(255, 255, 255, 0.87)',
-        '&:hover': {
+        transition: "unset",
+        borderColor: "rgba(255, 255, 255, 0.54)",
+        color: "rgba(255, 255, 255, 0.87)",
+        "&:hover": {
           borderColor: invertedColor,
-          background: 'rgba(255, 255, 255, 0.24)',
+          background: "rgba(255, 255, 255, 0.24)",
           color: invertedColor,
         },
-        '& .MuiButton-label': {
-          fontWeight: 'bold',
+        "& .MuiButton-label": {
+          fontWeight: "bold",
         },
       },
     },
     outlinedPrimary: {
       ...extraStyles.outlinedPrimary,
       borderWidth: outlinedBorderWidth,
-      '&:hover': {
+      "&:hover": {
         borderWidth: outlinedBorderWidth,
       },
-      '&.-inverted': {
-        '&:hover': {
+      "&.-inverted": {
+        "&:hover": {
           color: palette.primary.main,
           borderColor: palette.primary.main,
           backgroundColor: Color(palette.primary.main)
@@ -386,11 +380,11 @@ const useStyles = makeStyles(({ breakpoints, palette, spacing, shadows }) => {
     outlinedSecondary: {
       ...extraStyles.outlinedSecondary,
       borderWidth: outlinedBorderWidth,
-      '&:hover': {
+      "&:hover": {
         borderWidth: outlinedBorderWidth,
       },
-      '&.-inverted': {
-        '&:hover': {
+      "&.-inverted": {
+        "&:hover": {
           color: palette.secondary.main,
           borderColor: palette.secondary.main,
           backgroundColor: Color(palette.secondary.main)
@@ -432,33 +426,31 @@ const Button = forwardRef(
     },
     ref,
   ) => {
-    const iconComponent =
-      typeof icon === 'string' ? <Icon {...iconProps}>{icon}</Icon> : icon;
+    const iconComponent = typeof icon === "string" ? <Icon {...iconProps}>{icon}</Icon> : icon;
     const loaderSize = getLoaderSize(size);
-    const renderChildren = () =>
-      icon ? <span className={'MuiButton-span'}>{children}</span> : children;
+    const renderChildren = () => (icon ? <span className={"MuiButton-span"}>{children}</span> : children);
     const { root, label, ...classes } = useStyles();
     return (
       <MuiButton
         ref={ref}
         className={cx(
           className,
-          inverted && '-inverted',
-          loading && '-loading',
-          elongated && '-elongated',
+          inverted && "-inverted",
+          loading && "-loading",
+          elongated && "-elongated",
           color && `-color-${color}`,
           size && `-size-${size}`,
           shape && `-shape-${shape}`,
-          labelExpanded && '-labelExpanded',
-          mobileFullWidth && '-mobileFullWidth',
-          shadowless && '-shadowless',
-          compact && '-compact',
+          labelExpanded && "-labelExpanded",
+          mobileFullWidth && "-mobileFullWidth",
+          shadowless && "-shadowless",
+          compact && "-compact",
         )}
         color={injectColor(color)}
         {...props}
         classes={{
-          root: cx('MuiButton-root', root),
-          label: cx('MuiButton-label', iconIsolated && '-icon-isolated', label),
+          root: cx("MuiButton-root", root),
+          label: cx("MuiButton-label", iconIsolated && "-icon-isolated", label),
           ...classes,
         }}
       >
@@ -471,12 +463,12 @@ const Button = forwardRef(
               marginLeft: -loaderSize / 2,
               marginTop: -loaderSize / 2,
             }}
-            className={'MuiButton-loader'}
+            className={"MuiButton-loader"}
           />
         )}
-        {icon && iconPosition === 'start' && iconComponent}
-        {shape !== 'circular' && renderChildren()}
-        {icon && iconPosition === 'end' && iconComponent}
+        {icon && iconPosition === "start" && iconComponent}
+        {shape !== "circular" && renderChildren()}
+        {icon && iconPosition === "end" && iconComponent}
       </MuiButton>
     );
   },
@@ -486,12 +478,12 @@ Button.propTypes = {
   className: PropTypes.string,
   classes: PropTypes.shape({}),
   color: PropTypes.oneOf([
-    'default',
-    'inherit',
-    'primary',
-    'secondary',
+    "default",
+    "inherit",
+    "primary",
+    "secondary",
     // custom
-    'danger',
+    "danger",
   ]),
   compact: PropTypes.bool,
   inverted: PropTypes.bool,
@@ -500,20 +492,20 @@ Button.propTypes = {
   labelExpanded: PropTypes.bool,
   mobileFullWidth: PropTypes.bool,
   shadowless: PropTypes.bool,
-  size: PropTypes.oneOf(['small', '', 'big', 'large']),
-  shape: PropTypes.oneOf(['', 'chubby', 'circular', 'square', 'rectangle']),
+  size: PropTypes.oneOf(["small", "", "big", "large"]),
+  shape: PropTypes.oneOf(["", "chubby", "circular", "square", "rectangle"]),
   children: PropTypes.node,
   icon: PropTypes.oneOfType([PropTypes.string, PropTypes.object]),
   iconIsolated: PropTypes.bool,
-  iconPosition: PropTypes.oneOf(['start', 'end']),
+  iconPosition: PropTypes.oneOf(["start", "end"]),
   iconProps: PropTypes.shape({}),
   loaderProps: PropTypes.shape({}),
 };
 Button.defaultProps = {
-  className: '',
+  className: "",
   classes: {},
   children: null,
-  color: 'default',
+  color: "default",
   compact: false,
   inverted: false,
   loading: false,
@@ -521,11 +513,11 @@ Button.defaultProps = {
   labelExpanded: false,
   mobileFullWidth: false,
   shadowless: false,
-  size: '',
-  shape: '',
-  icon: '',
+  size: "",
+  shape: "",
+  icon: "",
   iconIsolated: false,
-  iconPosition: 'start',
+  iconPosition: "start",
   iconProps: {},
   loaderProps: {},
 };

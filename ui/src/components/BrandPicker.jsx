@@ -1,11 +1,11 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { makeStyles } from '@material-ui/styles';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
-import Checkbox from '@material-ui/core/Checkbox';
-import ListItemText from '@material-ui/core/ListItemText';
+import React from "react";
+import PropTypes from "prop-types";
+import { makeStyles } from "@material-ui/styles";
+import List from "@material-ui/core/List";
+import ListItem from "@material-ui/core/ListItem";
+import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
+import Checkbox from "@material-ui/core/Checkbox";
+import ListItemText from "@material-ui/core/ListItemText";
 
 const useStyles = makeStyles(({ spacing }) => ({
   action: {
@@ -18,12 +18,12 @@ const BrandPicker = ({ brands }) => {
   return (
     <List>
       {brands.map(({ active, title }) => {
-        const color = active ? 'primary' : 'textSecondary';
+        const color = active ? "primary" : "textSecondary";
         return (
           <ListItem button key={title} dense>
             <ListItemText primary={title} primaryTypographyProps={{ color }} />
             <ListItemSecondaryAction className={classes.action}>
-              <Checkbox color={'primary'} checked={active} />
+              <Checkbox color={"primary"} checked={active} />
             </ListItemSecondaryAction>
           </ListItem>
         );
@@ -45,20 +45,20 @@ BrandPicker.defaultProps = {
 };
 BrandPicker.data = [
   {
-    title: 'Adidas',
+    title: "Adidas",
   },
   {
-    title: 'Nike',
+    title: "Nike",
     active: true,
   },
   {
-    title: 'Balenciaga',
+    title: "Balenciaga",
   },
   {
-    title: 'NB Balance',
+    title: "NB Balance",
   },
   {
-    title: 'Sketcher',
+    title: "Sketcher",
   },
 ];
 

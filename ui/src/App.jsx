@@ -12,7 +12,7 @@ const browserHistory = createBrowserHistory();
 
 const useStyles = makeStyles(theme => ({}));
 
-export const App: React.FC = () => {
+export const App = () => {
   const classes = useStyles();
   return (
     <Container>

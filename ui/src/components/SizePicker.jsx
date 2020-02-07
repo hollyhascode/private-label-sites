@@ -1,15 +1,15 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { makeStyles } from '@material-ui/styles';
-import ButtonBase from '@material-ui/core/ButtonBase';
-import Typography from 'extensions/Typography';
-import Grid from '@material-ui/core/Grid';
+import React from "react";
+import PropTypes from "prop-types";
+import { makeStyles } from "@material-ui/styles";
+import ButtonBase from "@material-ui/core/ButtonBase";
+import Typography from "extensions/Typography";
+import Grid from "@material-ui/core/Grid";
 
 const useStyles = makeStyles(({ palette, spacing }) => ({
   root: ({ checked }) => ({
     border: `1px solid ${checked ? palette.primary.main : palette.grey[500]}`,
-    color: checked ? '#ffffff' : palette.text.primary,
-    background: checked ? palette.primary.main : 'unset',
+    color: checked ? "#ffffff" : palette.text.primary,
+    background: checked ? palette.primary.main : "unset",
     padding: spacing(0, 0.5),
     minWidth: 36,
   }),
@@ -19,11 +19,7 @@ const Size = ({ size, checked }) => {
   const classes = useStyles({ checked });
   return (
     <ButtonBase>
-      <Typography
-        className={classes.root}
-        display={'inline-block'}
-        secondFamily
-      >
+      <Typography className={classes.root} display={"inline-block"} secondFamily>
         {size}
       </Typography>
     </ButtonBase>

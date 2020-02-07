@@ -10,12 +10,12 @@ const useStyles = createUseStyles({
     border: "black solid 1px",
     backgroundColor: "white",
     display: "inline-block",
-    fontFamily: "monospace"
+    fontFamily: "monospace",
   },
-  red: { color: "red" }
+  red: { color: "red" },
 });
 
-export const CategorySelection: React.FC = () => {
+export const CategorySelection = () => {
   const classes = useStyles();
   return <div>Category Selections</div>;
 };
