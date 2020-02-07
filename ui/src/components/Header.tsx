@@ -1,16 +1,19 @@
-// components/Header.js
+import Link from 'next/link';
+import React from 'react'; 
 
-const headerStyle = {
-    backgroundColor: "blue",
-    color: "white",
-    width: "100%",
-    height: "50px"
-  };
-  
-  const Header = () => (
-    <div className="Header" style={headerStyle}>
-      HEADER
-    </div>
-  );
-  
-  export default Header;
+const linkStyle = {
+  marginRight: 15
+};
+
+const Header = () => (
+  <div>
+    <Link href="/">
+      <a style={linkStyle}>Home</a>
+    </Link>
+    <Link href="/about">
+      <a style={linkStyle}>About</a>
+    </Link>
+  </div>
+);
+
+export default Header;
