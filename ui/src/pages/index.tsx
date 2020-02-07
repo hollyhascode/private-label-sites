@@ -1,11 +1,6 @@
 import Layout from "../components/Layout";
 import React from "react";
-import LandingPage from "../mui-example/views/LandingPage/LandingPage";
 
 export default function Index() {
-  return (
-    <Layout>
-      <LandingPage />
-    </Layout>
-  );
+  return <Layout>Hello</Layout>;
 }
