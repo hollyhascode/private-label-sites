@@ -15,7 +15,7 @@ const url =
 
 Typography.setSecondFamily("'Oswald', sans-serif");
 
-const Layout = ({ theme, children }) => (
+const BaseLayout = ({ theme, children }) => (
   <ThemeProvider theme={theme}>
     <>
       <style jsx global>
@@ -47,7 +47,7 @@ const Layout = ({ theme, children }) => (
   </ThemeProvider>
 );
 
-Layout.propTypes = {};
-Layout.defaultProps = {};
+BaseLayout.propTypes = {};
+BaseLayout.defaultProps = {};
 
-export default Layout;
+export default BaseLayout;

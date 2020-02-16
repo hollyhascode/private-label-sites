@@ -8,7 +8,7 @@ import BrandPicker from "@erig/common/components/BrandPicker";
 import CategoryPicker from "@erig/common/components/CategoryPicker";
 import ColorPicker from "@erig/common/components/ColorPicker";
 import Expander from "@erig/common/components/Expander";
-import Layout from "@erig/common/components/Layout";
+import Layout from "../Layout";
 import MobileSelector from "@erig/common/components/MobileSelector";
 import Pagination from "@erig/common/components/Pagination";
 import PricePicker from "@erig/common/components/PricePicker";
@@ -17,10 +17,9 @@ import ProductCard from "@erig/common/components/ProductCard";
 import SizePicker from "@erig/common/components/SizePicker";
 import Typography from "@erig/common/extensions/Typography";
 import React from "react";
-import theme from "../theme";
 
 const Index = () => (
-  <Layout theme={theme}>
+  <Layout>
     <Box
       bgcolor={"#CDD5FF"}
       height={{
