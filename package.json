@@ -26,7 +26,6 @@
     "@testing-library/user-event": "^7.1.2",
     "@types/jest": "^24.9.0",
     "@types/next": "~9.0.0",
-    "@types/node": "^13.1.7",
     "@types/react-dom": "~16.9.5",
     "@types/react-helmet": "^5.0.15",
     "@types/react-router-dom": "^5.1.3",

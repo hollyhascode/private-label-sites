@@ -1,7 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/styles";
 import InputBase from "@material-ui/core/InputBase";
-import Button from "extensions/Button";
+import Button from "@erig/common/extensions/Button";
 
 const useStyles = makeStyles(({ palette, spacing }) => ({
   root: {
