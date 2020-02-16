@@ -1,4 +1,1 @@
-const withPlugins = require("next-compose-plugins");
-const withTM = require("next-transpile-modules")(["@erig"]);
-
-module.exports = withPlugins([withTM], {});
+module.exports = require("@erig/common/shared-next-config").makeNextConfig(module);
