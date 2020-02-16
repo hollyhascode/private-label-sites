@@ -1,8 +1,8 @@
 {
-  "name": "@erig/site-a",
+  "name": "@erig/site-b",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next -p 8000",
+    "dev": "next -p 4000",
     "build": "next build"
   }
 }

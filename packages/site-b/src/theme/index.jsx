@@ -8,7 +8,7 @@ const theme = {
   },
   palette: {
     primary: {
-      main: "#0c172b"
+      main: "#c14938"
     }
   },
   shape: {

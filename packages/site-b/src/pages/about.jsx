@@ -1,0 +1,73 @@
+import Box from "@material-ui/core/Box";
+import Container from "@material-ui/core/Container";
+import Paper from "@material-ui/core/Paper";
+import Layout from "@erig/common/components/Layout";
+import React from "react";
+
+import globalStyles from "../styles.global";
+import theme from "../theme";
+
+const Index = () => (
+  <Layout globalStyles={globalStyles} theme={theme}>
+    <Box
+      mt={{
+        xs: -5,
+        md: -8
+      }}
+      mb={-5.5}
+      position={"relative"}
+      zIndex={1}
+    >
+      <Container fixed>
+        <Box
+          mx={{
+            xs: -2,
+            sm: 0
+          }}
+        >
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+          <Paper style={{ boxShadow: "0 2px 12px 0 rgba(0,0,0,0.12)" }}>
+            About Us
+          </Paper>
+        </Box>
+      </Container>
+    </Box>
+  </Layout>
+);
+
+Index.propTypes = {};
+Index.defaultProps = {};
+
+export default Index;
