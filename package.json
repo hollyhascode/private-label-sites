@@ -2,18 +2,21 @@
   "private": true,
   "name": "@erig/monorepo",
   "version": "1.0.0",
-  "license": "UNLICENSED",
-  "workspaces": [
-    "packages/*"
-  ],
+  "scripts": {
+    "postinstall": "rexreplace \"followSymlinks: false\" \"followSymlinks: true\" ./node_modules/watchpack/lib/DirectoryWatcher.js -V",
+    "dev": "echo HEY DUMMY!",
+    "start": "echo HEY DUMMY!",
+    "build": "echo HEY DUMMY!"
+  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "prettier": "^1.19.1",
+    "rexreplace": "^4.1.1",
     "rimraf": "^3.0.0"
   },
-  "scripts": {
-    "dev": "echo HEY DUMMY U IN WRONG DIRECTORY!",
-    "start": "echo HEY DUMMY U IN WRONG DIRECTORY!",
-    "build": "echo HEY DUMMY U IN WRONG DIRECTORY!"
-  }
+  "workspaces": [
+    "blog",
+    "design",
+    "api"
+  ]
 }
