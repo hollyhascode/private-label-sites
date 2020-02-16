@@ -7,7 +7,7 @@ export default getBaseTheme({
   },
   palette: {
     primary: {
-      main: "#0c172b",
+      main: "#3E59D9",
     },
   },
   shape: {

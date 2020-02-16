@@ -15,58 +15,58 @@ const AmiHeader = () => (
                 label: "Shoes",
                 children: [
                   {
-                    label: "Lifestyle",
+                    label: "Lifestyle"
                   },
                   {
-                    label: "Running",
+                    label: "Running"
                   },
                   {
-                    label: "Training",
+                    label: "Training"
                   },
                   {
-                    label: "Basketball",
+                    label: "Basketball"
                   },
                   {
-                    label: "Footer",
+                    label: "Footer"
                   },
                   {
-                    label: "Soccer",
+                    label: "Soccer"
                   },
                   {
-                    label: "Tennis",
-                  },
-                ],
+                    label: "Tennis"
+                  }
+                ]
               },
               {
                 label: "Clothing",
                 children: [
                   {
-                    label: "Shorts",
+                    label: "Shorts"
                   },
                   {
-                    label: "Polos",
+                    label: "Polos"
                   },
                   {
-                    label: "Jacket & Sweatshirts",
-                  },
-                ],
+                    label: "Jacket & Sweatshirts"
+                  }
+                ]
               },
               {
                 label: "Sale",
                 children: [
                   {
-                    label: "Shoes",
+                    label: "Shoes"
                   },
                   {
-                    label: "Clothing",
-                  },
-                ],
-              },
-            ],
+                    label: "Clothing"
+                  }
+                ]
+              }
+            ]
           },
           { label: "MEN", icon: "far fa-male" },
           { label: "WOMEN", icon: "far fa-female" },
-          { label: "KIDS", icon: "far fa-child" },
+          { label: "KIDS", icon: "far fa-child" }
         ]}
       />
     </Hidden>

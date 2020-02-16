@@ -3,7 +3,10 @@
   "compilerOptions": {
     "baseUrl": "../../",
     "rootDir": ".",
-    "lib": ["dom", "es7"],
+    "lib": [
+      "dom",
+      "es7"
+    ],
     "skipLibCheck": true,
     "strict": false,
     "forceConsistentCasingInFileNames": true,
@@ -14,6 +17,12 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "exclude": ["node_modules"],
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
 }

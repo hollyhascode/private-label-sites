@@ -1,9 +1,9 @@
 {
-  "name": "@erig/site-a",
+  "name": "@erig/site-b",
   "version": "1.0.0",
   "license": "UNLICENSED",
   "scripts": {
-    "next": "next -p 8000",
+    "next": "next -p 8001",
     "dev": "yarn run next",
     "build": "yarn run next build"
   }
