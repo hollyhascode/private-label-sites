@@ -1,15 +1,19 @@
 {
-  "name": "hello-render-monorepo",
+  "private": true,
+  "name": "@erig/monorepo",
   "version": "1.0.0",
   "license": "UNLICENSED",
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "eslint": "^6.8.0",
     "prettier": "^1.19.1",
     "rimraf": "^3.0.0"
   },
   "scripts": {
-    "postinstall": "yarn run setup",
-    "setup": "yarn ui install",
-    "ui": "cd ui && yarn"
+    "dev": "echo HEY DUMMY U IN WRONG DIRECTORY!",
+    "start": "echo HEY DUMMY U IN WRONG DIRECTORY!",
+    "build": "echo HEY DUMMY U IN WRONG DIRECTORY!"
   }
 }
