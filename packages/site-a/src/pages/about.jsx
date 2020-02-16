@@ -4,8 +4,11 @@ import Paper from "@material-ui/core/Paper";
 import Layout from "@erig/common/components/Layout";
 import React from "react";
 
+import globalStyles from "../styles.global";
+import theme from "../theme";
+
 const Index = () => (
-  <Layout>
+  <Layout globalStyles={globalStyles} theme={theme}>
     <Box
       mt={{
         xs: -5,

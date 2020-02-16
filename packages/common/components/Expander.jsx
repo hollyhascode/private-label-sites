@@ -4,8 +4,8 @@ import Collapse from "@material-ui/core/Collapse";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import Box from "@material-ui/core/Box";
-import Typography from "@erig/common/extensions/Typography";
-import Icon from "@erig/common/extensions/Icon";
+import Typography from "../extensions/Typography";
+import Icon from "../extensions/Icon";
 import KeyboardArrowUp from "@material-ui/icons/KeyboardArrowUp";
 import KeyboardArrowDown from "@material-ui/icons/KeyboardArrowDown";
 

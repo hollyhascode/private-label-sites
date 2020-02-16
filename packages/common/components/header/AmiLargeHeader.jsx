@@ -6,8 +6,8 @@ import Toolbar from "@material-ui/core/Toolbar";
 import useScrollTrigger from "@material-ui/core/useScrollTrigger";
 // import PropTypes from 'prop-types';
 import { makeStyles } from "@material-ui/styles";
-import Button from "@erig/common/extensions/Button";
-import Typography from "@erig/common/extensions/Typography";
+import Button from "../../extensions/Button";
+import Typography from "../../extensions/Typography";
 import React, { useRef, useState } from "react";
 import MegaMenu from "../MegaMenu";
 

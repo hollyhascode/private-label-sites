@@ -2,13 +2,11 @@ import Box from "@material-ui/core/Box";
 import Container from "@material-ui/core/Container";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import { ThemeProvider } from "@material-ui/styles";
-import EmailInput from "@erig/common/components/EmailInput";
-import AmiLargeHeader from "@erig/common/components/header";
-import Typography from "@erig/common/extensions/Typography";
+import EmailInput from "./EmailInput";
+import AmiLargeHeader from "./header";
+import Typography from "../extensions/Typography";
 import React from "react";
 import { Helmet } from "react-helmet";
-import globalStyles from "styles.global";
-import theme from "theme";
 
 const url =
   // eslint-disable-next-line max-len
@@ -16,7 +14,7 @@ const url =
 
 Typography.setSecondFamily("'Oswald', sans-serif");
 
-const Layout = ({ children }) => (
+const Layout = ({ theme, globalStyles, children }) => (
   <ThemeProvider theme={theme}>
     <>
       <style jsx global>

@@ -17,9 +17,11 @@ import ProductCard from "@erig/common/components/ProductCard";
 import SizePicker from "@erig/common/components/SizePicker";
 import Typography from "@erig/common/extensions/Typography";
 import React from "react";
+import globalStyles from "../styles.global";
+import theme from "../theme";
 
 const Index = () => (
-  <Layout>
+  <Layout globalStyles={globalStyles} theme={theme}>
     <Box
       bgcolor={"#CDD5FF"}
       height={{

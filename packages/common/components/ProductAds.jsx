@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import { makeStyles } from "@material-ui/styles";
 import Box from "@material-ui/core/Box";
-import Typography from "@erig/common/extensions/Typography";
-import Button from "@erig/common/extensions/Button";
+import Typography from "../extensions/Typography";
+import Button from "../extensions/Button";
 
 const useStyles = makeStyles(({ palette, spacing }) => ({
   bg: ({ bgColor }) => ({
