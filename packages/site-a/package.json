@@ -1,8 +1,10 @@
 {
   "name": "@erig/site-a",
   "version": "1.0.0",
+  "license": "UNLICENSED",
   "scripts": {
-    "dev": "next",
-    "build": "next build"
+    "next": "next -p 8001",
+    "dev": "yarn run next",
+    "build": "yarn run next build"
   }
 }
