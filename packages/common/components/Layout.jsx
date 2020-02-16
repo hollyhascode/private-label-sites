@@ -7,6 +7,7 @@ import AmiLargeHeader from "./header";
 import Typography from "../extensions/Typography";
 import React from "react";
 import { Helmet } from "react-helmet";
+import globalStyles from "../styles.global";
 
 const url =
   // eslint-disable-next-line max-len
@@ -14,7 +15,7 @@ const url =
 
 Typography.setSecondFamily("'Oswald', sans-serif");
 
-const Layout = ({ theme, globalStyles, children }) => (
+const Layout = ({ theme, children }) => (
   <ThemeProvider theme={theme}>
     <>
       <style jsx global>
