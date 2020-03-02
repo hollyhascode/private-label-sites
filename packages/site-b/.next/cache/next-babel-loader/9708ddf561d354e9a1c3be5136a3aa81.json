@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './AmiHeader';","map":{"version":3,"sources":["C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/index.jsx"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,aAAxB","sourcesContent":["export { default } from './AmiHeader';\n"]},"metadata":{},"sourceType":"module"}
