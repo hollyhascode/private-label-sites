@@ -1,6 +1,6 @@
 /* eslint-disable */
-import { createMuiTheme, responsiveFontSizes } from "@material-ui/core/styles";
-import { ThemeOptions } from "@material-ui/core/styles/createMuiTheme";
+//import { createMuiTheme, responsiveFontSizes } from "@material-ui/core/styles";
+//import { ThemeOptions } from "@material-ui/core/styles/createMuiTheme";
 
 export function getBaseTheme(options?: ThemeOptions) {
   let mergedTheme = createMuiTheme(options);
