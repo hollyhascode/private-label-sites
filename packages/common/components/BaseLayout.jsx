@@ -47,8 +47,9 @@ const BaseLayout = ({ theme, children }) => (
   </ThemeProvider>
 );
 */
-
+/* 
 BaseLayout.propTypes = {};
 BaseLayout.defaultProps = {};
+*/
 
 export default BaseLayout;

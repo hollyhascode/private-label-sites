@@ -1,7 +1,7 @@
 /* eslint-disable */
 //import { createMuiTheme, responsiveFontSizes } from "@material-ui/core/styles";
 //import { ThemeOptions } from "@material-ui/core/styles/createMuiTheme";
-
+/* 
 export function getBaseTheme(options?: ThemeOptions) {
   let mergedTheme = createMuiTheme(options);
   mergedTheme = responsiveFontSizes(mergedTheme);
@@ -19,3 +19,4 @@ export function getBaseTheme(options?: ThemeOptions) {
   mergedTheme.overrides = overrides;
   return mergedTheme;
 }
+*/
