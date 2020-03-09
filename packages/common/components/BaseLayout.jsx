@@ -14,7 +14,7 @@ const url =
   "https://fonts.googleapis.com/css?family=Poppins:200,400,500,700,900|Oswald:400,700&display=swap";
 
 Typography.setSecondFamily("'Oswald', sans-serif");
-
+/* 
 const BaseLayout = ({ theme, children }) => (
   <ThemeProvider theme={theme}>
     <>
@@ -46,6 +46,7 @@ const BaseLayout = ({ theme, children }) => (
     </>
   </ThemeProvider>
 );
+*/
 
 BaseLayout.propTypes = {};
 BaseLayout.defaultProps = {};
