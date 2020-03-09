@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!*******************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \*******************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -116,9 +116,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -127,9 +127,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/weak-map.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -149,9 +149,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/weak-map */ "core-js
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -166,9 +166,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -237,9 +237,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -267,10 +267,215 @@ module.exports = _typeof;
 
 /***/ }),
 
+/***/ "../../node_modules/@erig/common/base-theme/components sync recursive .js$":
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/base-theme/components sync .js$ ***!
+  \*******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+function webpackEmptyContext(req) {
+	var e = new Error("Cannot find module '" + req + "'");
+	e.code = 'MODULE_NOT_FOUND';
+	throw e;
+}
+webpackEmptyContext.keys = function() { return []; };
+webpackEmptyContext.resolve = webpackEmptyContext;
+module.exports = webpackEmptyContext;
+webpackEmptyContext.id = "../../node_modules/@erig/common/base-theme/components sync recursive .js$";
+
+/***/ }),
+
+/***/ "../../node_modules/@erig/common/base-theme/index.tsx":
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/base-theme/index.tsx ***!
+  \********************************************************************************************************/
+/*! exports provided: getBaseTheme */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getBaseTheme", function() { return getBaseTheme; });
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__);
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+/* eslint-disable */
+
+function getBaseTheme(options) {
+  let mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["createMuiTheme"])(options);
+  mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["responsiveFontSizes"])(mergedTheme);
+
+  const req = __webpack_require__("../../node_modules/@erig/common/base-theme/components sync recursive .js$");
+
+  let overrides = {};
+  req.keys().forEach(filename => {
+    overrides = _objectSpread({}, overrides, {}, req(filename).default(mergedTheme));
+  });
+  mergedTheme.overrides = overrides;
+  return mergedTheme;
+}
+
+/***/ }),
+
+/***/ "../../node_modules/@erig/common/components/BaseLayout.jsx":
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/BaseLayout.jsx ***!
+  \*************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/Box */ "@material-ui/core/Box");
+/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/Container */ "@material-ui/core/Container");
+/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/CssBaseline */ "@material-ui/core/CssBaseline");
+/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/styles */ "@material-ui/styles");
+/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _EmailInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./EmailInput */ "../../node_modules/@erig/common/components/EmailInput.jsx");
+/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./header */ "../../node_modules/@erig/common/components/header/index.jsx");
+/* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-helmet */ "react-helmet");
+/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _styles_global__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../styles.global */ "../../node_modules/@erig/common/styles.global.js");
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\BaseLayout.jsx";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
+
+
+
+
+
+
+
+
+
+
+const url = // eslint-disable-next-line max-len
+"https://fonts.googleapis.com/css?family=Poppins:200,400,500,700,900|Oswald:400,700&display=swap";
+_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"].setSecondFamily("'Oswald', sans-serif");
+
+const BaseLayout = ({
+  theme,
+  children
+}) => __jsx(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__["ThemeProvider"], {
+  theme: theme,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 19
+  },
+  __self: undefined
+}, __jsx(react__WEBPACK_IMPORTED_MODULE_8___default.a.Fragment, null, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  id: _styles_global__WEBPACK_IMPORTED_MODULE_10__["default"].__hash,
+  __self: undefined
+}, _styles_global__WEBPACK_IMPORTED_MODULE_10__["default"]), __jsx(react_helmet__WEBPACK_IMPORTED_MODULE_9__["Helmet"], {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 24
+  },
+  __self: undefined
+}, __jsx("link", {
+  href: url,
+  rel: "stylesheet",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 25
+  },
+  __self: undefined
+})), __jsx(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3___default.a, {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27
+  },
+  __self: undefined
+}), __jsx(_header__WEBPACK_IMPORTED_MODULE_6__["default"], {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 28
+  },
+  __self: undefined
+}), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  bgcolor: "common.white",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 29
+  },
+  __self: undefined
+}, children, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  bgcolor: "grey.200",
+  textAlign: "center",
+  position: "relative",
+  zIndex: 0,
+  pt: 10,
+  pb: 5,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 31
+  },
+  __self: undefined
+}, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  maxWidth: "sm",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 32
+  },
+  __self: undefined
+}, __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  spacing: "medium",
+  secondFamily: true,
+  weight: 500,
+  gutterBottom: true,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 33
+  },
+  __self: undefined
+}, "SUBSCRIBE TO OUR NEWSLETTER"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  variant: "caption",
+  display: "block",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 36
+  },
+  __self: undefined
+}, "To always stay update with our products, news, and special discounts"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  variant: "caption",
+  display: "block",
+  bottomSpace: "medium",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 39
+  },
+  __self: undefined
+}, "enter you email below"), __jsx(_EmailInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 42
+  },
+  __self: undefined
+}))))));
+
+BaseLayout.propTypes = {};
+BaseLayout.defaultProps = {};
+/* harmony default export */ __webpack_exports__["default"] = (BaseLayout);
+
+/***/ }),
+
 /***/ "../../node_modules/@erig/common/components/BrandPicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/BrandPicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/BrandPicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -292,7 +497,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Checkbox__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Checkbox__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/ListItemText */ "@material-ui/core/ListItemText");
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\BrandPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\BrandPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -389,9 +594,9 @@ BrandPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/CategoryPicker.jsx":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/CategoryPicker.jsx ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/CategoryPicker.jsx ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -408,7 +613,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/ListItemText */ "@material-ui/core/ListItemText");
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\CategoryPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\CategoryPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -504,9 +709,9 @@ CategoryPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ColorPicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ColorPicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ColorPicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -523,7 +728,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Icon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../extensions/Icon */ "../../node_modules/@erig/common/extensions/Icon.jsx");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/Grid */ "@material-ui/core/Grid");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ColorPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ColorPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -659,9 +864,9 @@ ColorPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/EmailInput.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/EmailInput.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/EmailInput.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -674,7 +879,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_InputBase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/InputBase */ "@material-ui/core/InputBase");
 /* harmony import */ var _material_ui_core_InputBase__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_InputBase__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\EmailInput.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\EmailInput.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -730,9 +935,9 @@ EmailInput.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/Expander.jsx":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Expander.jsx ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/Expander.jsx ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -756,7 +961,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_icons_KeyboardArrowUp__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_KeyboardArrowUp__WEBPACK_IMPORTED_MODULE_8__);
 /* harmony import */ var _material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @material-ui/icons/KeyboardArrowDown */ "@material-ui/icons/KeyboardArrowDown");
 /* harmony import */ var _material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Expander.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\Expander.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -842,159 +1047,10 @@ Expander.defaultProps = {};
 
 /***/ }),
 
-/***/ "../../node_modules/@erig/common/components/Layout.jsx":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Layout.jsx ***!
-  \*********************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/Box */ "@material-ui/core/Box");
-/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/Container */ "@material-ui/core/Container");
-/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/CssBaseline */ "@material-ui/core/CssBaseline");
-/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/styles */ "@material-ui/styles");
-/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _EmailInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./EmailInput */ "../../node_modules/@erig/common/components/EmailInput.jsx");
-/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./header */ "../../node_modules/@erig/common/components/header/index.jsx");
-/* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Layout.jsx";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
-
-
-
-
-
-
-
-
-
-const url = // eslint-disable-next-line max-len
-"https://fonts.googleapis.com/css?family=Poppins:200,400,500,700,900|Oswald:400,700&display=swap";
-_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"].setSecondFamily("'Oswald', sans-serif");
-
-const Layout = ({
-  theme,
-  globalStyles,
-  children
-}) => __jsx(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__["ThemeProvider"], {
-  theme: theme,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 18
-  },
-  __self: undefined
-}, __jsx(react__WEBPACK_IMPORTED_MODULE_8___default.a.Fragment, null, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: globalStyles.__hash,
-  __self: undefined
-}, globalStyles), __jsx(react_helmet__WEBPACK_IMPORTED_MODULE_9__["Helmet"], {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23
-  },
-  __self: undefined
-}, __jsx("link", {
-  href: url,
-  rel: "stylesheet",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 24
-  },
-  __self: undefined
-})), __jsx(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3___default.a, {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 26
-  },
-  __self: undefined
-}), __jsx(_header__WEBPACK_IMPORTED_MODULE_6__["default"], {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 27
-  },
-  __self: undefined
-}), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  bgcolor: "common.white",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 28
-  },
-  __self: undefined
-}, children, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  bgcolor: "grey.200",
-  textAlign: "center",
-  position: "relative",
-  zIndex: 0,
-  pt: 10,
-  pb: 5,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 30
-  },
-  __self: undefined
-}, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2___default.a, {
-  maxWidth: "sm",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 31
-  },
-  __self: undefined
-}, __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-  spacing: "medium",
-  secondFamily: true,
-  weight: 500,
-  gutterBottom: true,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 32
-  },
-  __self: undefined
-}, "SUBSCRIBE TO OUR NEWSLETTER"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-  variant: "caption",
-  display: "block",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 35
-  },
-  __self: undefined
-}, "To always stay update with our products, news, and special discounts"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-  variant: "caption",
-  display: "block",
-  bottomSpace: "medium",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 38
-  },
-  __self: undefined
-}, "enter you email below"), __jsx(_EmailInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 41
-  },
-  __self: undefined
-}))))));
-
-Layout.propTypes = {};
-Layout.defaultProps = {};
-/* harmony default export */ __webpack_exports__["default"] = (Layout);
-
-/***/ }),
-
 /***/ "../../node_modules/@erig/common/components/MegaMenu.jsx":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/MegaMenu.jsx ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/MegaMenu.jsx ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1030,7 +1086,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_13__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_14__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\MegaMenu.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\MegaMenu.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement;
 
 
@@ -1266,9 +1322,9 @@ MegaMenu.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/MobileSelector.jsx":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/MobileSelector.jsx ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/MobileSelector.jsx ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1296,7 +1352,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _BrandPicker__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./BrandPicker */ "../../node_modules/@erig/common/components/BrandPicker.jsx");
 /* harmony import */ var _ColorPicker__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./ColorPicker */ "../../node_modules/@erig/common/components/ColorPicker.jsx");
 /* harmony import */ var _SizePicker__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./SizePicker */ "../../node_modules/@erig/common/components/SizePicker.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\MobileSelector.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\MobileSelector.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1559,9 +1615,9 @@ MobileSelector.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/Pagination.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Pagination.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/Pagination.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1580,7 +1636,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/Grid */ "@material-ui/core/Grid");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Pagination.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\Pagination.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -1736,9 +1792,9 @@ Pagination.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/PricePicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/PricePicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/PricePicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1755,7 +1811,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Slider__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/Slider */ "@material-ui/core/Slider");
 /* harmony import */ var _material_ui_core_Slider__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Slider__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\PricePicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\PricePicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -1887,9 +1943,9 @@ PricePicker.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductAds.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductAds.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductAds.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1905,7 +1961,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductAds.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductAds.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2112,9 +2168,9 @@ ProductAds.test2 = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCard.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCard.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCard.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2126,7 +2182,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Fade__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Fade__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _ProductCardFront__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ProductCardFront */ "../../node_modules/@erig/common/components/ProductCardFront.jsx");
 /* harmony import */ var _ProductCardBack__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ProductCardBack */ "../../node_modules/@erig/common/components/ProductCardBack.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCard.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCard.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2246,9 +2302,9 @@ ProductCard.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCardBack.jsx":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCardBack.jsx ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCardBack.jsx ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2272,7 +2328,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
 /* harmony import */ var _ProductInfo__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./ProductInfo */ "../../node_modules/@erig/common/components/ProductInfo.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCardBack.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCardBack.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2478,9 +2534,9 @@ ProductCardBack.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCardFront.jsx":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCardFront.jsx ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCardFront.jsx ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2497,7 +2553,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/styles */ "@material-ui/styles");
 /* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _ProductInfo__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./ProductInfo */ "../../node_modules/@erig/common/components/ProductInfo.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCardFront.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCardFront.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2610,9 +2666,9 @@ ProductCardFront.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductInfo.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductInfo.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductInfo.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2625,7 +2681,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/Box */ "@material-ui/core/Box");
 /* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @erig/common/extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductInfo.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductInfo.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2686,9 +2742,9 @@ ProductInfo.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/SizePicker.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/SizePicker.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/SizePicker.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2705,7 +2761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/Grid */ "@material-ui/core/Grid");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\SizePicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\SizePicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -2831,9 +2887,9 @@ SizePicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiHeader.jsx":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiHeader.jsx ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiHeader.jsx ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2845,7 +2901,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _AmiMiniHeader__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AmiMiniHeader */ "../../node_modules/@erig/common/components/header/AmiMiniHeader.jsx");
 /* harmony import */ var _AmiLargeHeader__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AmiLargeHeader */ "../../node_modules/@erig/common/components/header/AmiLargeHeader.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2933,9 +2989,9 @@ AmiHeader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiLargeHeader.jsx":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiLargeHeader.jsx ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiLargeHeader.jsx ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2960,7 +3016,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var _MegaMenu__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../MegaMenu */ "../../node_modules/@erig/common/components/MegaMenu.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiLargeHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiLargeHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 
@@ -3232,9 +3288,9 @@ AmiLargeHeader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiMiniHeader.jsx":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiMiniHeader.jsx ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiMiniHeader.jsx ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3277,7 +3333,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Icon__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../../extensions/Icon */ "../../node_modules/@erig/common/extensions/Icon.jsx");
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiMiniHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiMiniHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -3649,9 +3705,9 @@ AmiMiniHeader.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/index.jsx":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/index.jsx ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/index.jsx ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3665,9 +3721,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Button.jsx":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Button.jsx ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Button.jsx ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3688,7 +3744,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Icon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Icon */ "../../node_modules/@erig/common/extensions/Icon.jsx");
 /* harmony import */ var _material_ui_core_CircularProgress__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/CircularProgress */ "@material-ui/core/CircularProgress");
 /* harmony import */ var _material_ui_core_CircularProgress__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_CircularProgress__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Button.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Button.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -4217,9 +4273,9 @@ Button.getTheme = () => {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Icon.jsx":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Icon.jsx ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Icon.jsx ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4235,7 +4291,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_styles__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _material_ui_core_Icon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/Icon */ "@material-ui/core/Icon");
 /* harmony import */ var _material_ui_core_Icon__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Icon__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Icon.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Icon.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -4455,9 +4511,9 @@ Icon.getTheme = () => {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Typography.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Typography.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Typography.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4475,7 +4531,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Link__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Link__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/Typography */ "@material-ui/core/Typography");
 /* harmony import */ var _material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Typography.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Typography.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -4773,10 +4829,26 @@ Typography.setSecondFamily = family => {
 
 /***/ }),
 
+/***/ "../../node_modules/@erig/common/styles.global.js":
+/*!****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/styles.global.js ***!
+  \****************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+const _defaultExport = new String("body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\", \"Droid Sans\",\"Helvetica Neue\",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}code{font-family:source-code-pro,Menlo,Monaco,Consolas,\"Courier New\",monospace;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaG9sbHlcXERlc2t0b3BcXHByaXZhdGUtbGFiZWwtc2l0ZXMtbWFzdGVyXFxub2RlX21vZHVsZXNcXEBlcmlnXFxjb21tb25cXHN0eWxlcy5nbG9iYWwuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRXlCLEFBR2MsQUFTc0UsU0FSckUsVUFFa0MsdURBTzlDLDhGQU5xQyxtQ0FDRCxrQ0FDcEMiLCJmaWxlIjoiQzpcXFVzZXJzXFxob2xseVxcRGVza3RvcFxccHJpdmF0ZS1sYWJlbC1zaXRlcy1tYXN0ZXJcXG5vZGVfbW9kdWxlc1xcQGVyaWdcXGNvbW1vblxcc3R5bGVzLmdsb2JhbC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBjc3MgZnJvbSBcInN0eWxlZC1qc3gvY3NzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNzcy5nbG9iYWxgXG4gIGJvZHkge1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xuICAgIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgXCJSb2JvdG9cIiwgXCJPeHlnZW5cIiwgXCJVYnVudHVcIiwgXCJDYW50YXJlbGxcIiwgXCJGaXJhIFNhbnNcIixcbiAgICAgIFwiRHJvaWQgU2Fuc1wiLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG4gICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbiAgfVxuXG4gIGNvZGUge1xuICAgIGZvbnQtZmFtaWx5OiBzb3VyY2UtY29kZS1wcm8sIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCBcIkNvdXJpZXIgTmV3XCIsIG1vbm9zcGFjZTtcbiAgfVxuYDtcbiJdfQ== */\n/*@ sourceURL=C:\\\\Users\\\\holly\\\\Desktop\\\\private-label-sites-master\\\\node_modules\\\\@erig\\\\common\\\\styles.global.js */");
+
+_defaultExport.__hash = "4022544970";
+/* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
+
+/***/ }),
+
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!***********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/link.js ***!
-  \***********************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/link.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5085,9 +5157,9 @@ exports.default = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/router.js":
-/*!*************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/router.js ***!
-  \*************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/router.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5247,9 +5319,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/with-router.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/with-router.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/with-router.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5287,9 +5359,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/mitt.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/mitt.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/mitt.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5342,9 +5414,9 @@ exports.default = mitt;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router-context.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router-context.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router-context.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5370,9 +5442,9 @@ exports.RouterContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/router.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/router.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/router.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6017,9 +6089,9 @@ Router.events = mitt_1.default();
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6041,9 +6113,9 @@ exports.isDynamicRoute = isDynamicRoute;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-matcher.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6085,9 +6157,9 @@ exports.getRouteMatcher = getRouteMatcher;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-regex.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6124,9 +6196,9 @@ exports.getRouteRegex = getRouteRegex;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/utils.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/utils.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/utils.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6259,9 +6331,9 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 /***/ }),
 
 /***/ "../../node_modules/next/link.js":
-/*!***********************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/link.js ***!
-  \***********************************************************************/
+/*!***********************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/link.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6271,9 +6343,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/cjs/react-is.development.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6510,9 +6582,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/node_modules/react-is/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/node_modules/react-is/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6523,6 +6595,42 @@ if (false) {} else {
   module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "../../node_modules/next/node_modules/react-is/cjs/react-is.development.js");
 }
 
+
+/***/ }),
+
+/***/ "./src/Layout.jsx":
+/*!************************!*\
+  !*** ./src/Layout.jsx ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./theme */ "./src/theme.jsx");
+/* harmony import */ var _erig_common_components_BaseLayout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @erig/common/components/BaseLayout */ "../../node_modules/@erig/common/components/BaseLayout.jsx");
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\packages\\site-a\\src\\Layout.jsx";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+
+const Layout = ({
+  children
+}) => {
+  return __jsx(_erig_common_components_BaseLayout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    theme: _theme__WEBPACK_IMPORTED_MODULE_1__["default"],
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: undefined
+  }, children);
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Layout);
 
 /***/ }),
 
@@ -6551,7 +6659,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @erig/common/components/CategoryPicker */ "../../node_modules/@erig/common/components/CategoryPicker.jsx");
 /* harmony import */ var _erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @erig/common/components/ColorPicker */ "../../node_modules/@erig/common/components/ColorPicker.jsx");
 /* harmony import */ var _erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @erig/common/components/Expander */ "../../node_modules/@erig/common/components/Expander.jsx");
-/* harmony import */ var _erig_common_components_Layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @erig/common/components/Layout */ "../../node_modules/@erig/common/components/Layout.jsx");
+/* harmony import */ var _Layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../Layout */ "./src/Layout.jsx");
 /* harmony import */ var _erig_common_components_MobileSelector__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @erig/common/components/MobileSelector */ "../../node_modules/@erig/common/components/MobileSelector.jsx");
 /* harmony import */ var _erig_common_components_Pagination__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @erig/common/components/Pagination */ "../../node_modules/@erig/common/components/Pagination.jsx");
 /* harmony import */ var _erig_common_components_PricePicker__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @erig/common/components/PricePicker */ "../../node_modules/@erig/common/components/PricePicker.jsx");
@@ -6561,9 +6669,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! @erig/common/extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_18__);
-/* harmony import */ var _styles_global__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../styles.global */ "./src/styles.global.js");
-/* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../theme */ "./src/theme/index.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\packages\\site-a\\src\\pages\\index.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\packages\\site-a\\src\\pages\\index.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_18___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -6588,14 +6694,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 
 
-
-
-const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODULE_10__["default"], {
-  globalStyles: _styles_global__WEBPACK_IMPORTED_MODULE_19__["default"],
-  theme: _theme__WEBPACK_IMPORTED_MODULE_20__["default"],
+const Index = () => __jsx(_Layout__WEBPACK_IMPORTED_MODULE_10__["default"], {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 24
+    lineNumber: 22
   },
   __self: undefined
 }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
@@ -6611,7 +6713,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 25
+    lineNumber: 23
   },
   __self: undefined
 }, __jsx(_erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_17__["default"], {
@@ -6621,13 +6723,13 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   bottomSpace: "small",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 37
+    lineNumber: 35
   },
   __self: undefined
 }, "MEN\u2019S LIFESTYLE SHOE"), __jsx(_erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_17__["default"], {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 40
+    lineNumber: 38
   },
   __self: undefined
 }, "TOTAL 319 ITEMS")), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
@@ -6640,14 +6742,14 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   zIndex: 1,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 42
+    lineNumber: 40
   },
   __self: undefined
 }, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_1___default.a, {
   fixed: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 51
+    lineNumber: 49
   },
   __self: undefined
 }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
@@ -6657,7 +6759,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 52
+    lineNumber: 50
   },
   __self: undefined
 }, __jsx(_material_ui_core_Paper__WEBPACK_IMPORTED_MODULE_5___default.a, {
@@ -6666,14 +6768,14 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 58
+    lineNumber: 56
   },
   __self: undefined
 }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
   container: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59
+    lineNumber: 57
   },
   __self: undefined
 }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -6683,7 +6785,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   md: 5,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 60
+    lineNumber: 58
   },
   __self: undefined
 }, __jsx(_erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_14__["default"], _extends({}, _erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_14__["default"].test1, {
@@ -6693,7 +6795,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 61
+    lineNumber: 59
   },
   __self: undefined
 }))), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -6703,7 +6805,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   md: 7,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 63
+    lineNumber: 61
   },
   __self: undefined
 }, __jsx(_erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_14__["default"], _extends({}, _erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_14__["default"].test2, {
@@ -6713,14 +6815,14 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 64
+    lineNumber: 62
   },
   __self: undefined
 })))), __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_4___default.a, {
   only: "xs",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 67
+    lineNumber: 65
   },
   __self: undefined
 }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
@@ -6728,41 +6830,41 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   pb: 3,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 68
+    lineNumber: 66
   },
   __self: undefined
 })), __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_4___default.a, {
   smUp: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 70
+    lineNumber: 68
   },
   __self: undefined
 }, __jsx(_erig_common_components_MobileSelector__WEBPACK_IMPORTED_MODULE_11__["default"], {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 71
+    lineNumber: 69
   },
   __self: undefined
 })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 73
+    lineNumber: 71
   },
   __self: undefined
 }), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
   container: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 74
+    lineNumber: 72
   },
   __self: undefined
 }, __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_4___default.a, {
   only: "xs",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 75
+    lineNumber: 73
   },
   __self: undefined
 }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -6772,35 +6874,35 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   md: 3,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 76
+    lineNumber: 74
   },
   __self: undefined
 }, __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__["default"], {
   label: "CATEGORY",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 77
+    lineNumber: 75
   },
   __self: undefined
 }, __jsx(_erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_7__["default"], {
   categories: _erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_7__["default"].data,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 78
+    lineNumber: 76
   },
   __self: undefined
 })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 80
+    lineNumber: 78
   },
   __self: undefined
 }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__["default"], {
   label: "PRICE",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 81
+    lineNumber: 79
   },
   __self: undefined
 }, __jsx(_erig_common_components_PricePicker__WEBPACK_IMPORTED_MODULE_13__["default"], {
@@ -6808,91 +6910,91 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   max: 400,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 82
+    lineNumber: 80
   },
   __self: undefined
 })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84
+    lineNumber: 82
   },
   __self: undefined
 }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__["default"], {
   label: "BRAND",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 85
+    lineNumber: 83
   },
   __self: undefined
 }, __jsx(_erig_common_components_BrandPicker__WEBPACK_IMPORTED_MODULE_6__["default"], {
   brands: _erig_common_components_BrandPicker__WEBPACK_IMPORTED_MODULE_6__["default"].data,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 86
+    lineNumber: 84
   },
   __self: undefined
 })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 88
+    lineNumber: 86
   },
   __self: undefined
 }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__["default"], {
   label: "COLOR",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 89
+    lineNumber: 87
   },
   __self: undefined
 }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
   p: 1,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 90
+    lineNumber: 88
   },
   __self: undefined
 }, __jsx(_erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_8__["default"], {
   colors: _erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_8__["default"].data,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 91
+    lineNumber: 89
   },
   __self: undefined
 }))), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 94
+    lineNumber: 92
   },
   __self: undefined
 }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_9__["default"], {
   label: "SIZE",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 95
+    lineNumber: 93
   },
   __self: undefined
 }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_0___default.a, {
   p: 1,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 96
+    lineNumber: 94
   },
   __self: undefined
 }, __jsx(_erig_common_components_SizePicker__WEBPACK_IMPORTED_MODULE_16__["default"], {
   sizes: _erig_common_components_SizePicker__WEBPACK_IMPORTED_MODULE_16__["default"].data,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 97
+    lineNumber: 95
   },
   __self: undefined
 }))), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_2___default.a, {
   light: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 100
+    lineNumber: 98
   },
   __self: undefined
 }))), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -6902,14 +7004,14 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   md: 9,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 103
+    lineNumber: 101
   },
   __self: undefined
 }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
   container: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 104
+    lineNumber: 102
   },
   __self: undefined
 }, _erig_common_components_ProductCard__WEBPACK_IMPORTED_MODULE_15__["default"].data.map(data => __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -6920,14 +7022,14 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   md: 4,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 106
+    lineNumber: 104
   },
   __self: undefined
 }, __jsx(_erig_common_components_ProductCard__WEBPACK_IMPORTED_MODULE_15__["default"], _extends({}, data, {
   bordered: true,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 107
+    lineNumber: 105
   },
   __self: undefined
 }))))), __jsx(_erig_common_components_Pagination__WEBPACK_IMPORTED_MODULE_12__["default"], {
@@ -6938,7 +7040,7 @@ const Index = () => __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODUL
   },
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 111
+    lineNumber: 109
   },
   __self: undefined
 }))))))));
@@ -6949,62 +7051,18 @@ Index.defaultProps = {};
 
 /***/ }),
 
-/***/ "./src/styles.global.js":
-/*!******************************!*\
-  !*** ./src/styles.global.js ***!
-  \******************************/
+/***/ "./src/theme.jsx":
+/*!***********************!*\
+  !*** ./src/theme.jsx ***!
+  \***********************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-// styles/global.js
-const _defaultExport = new String("body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\", \"Droid Sans\",\"Helvetica Neue\",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}code{font-family:source-code-pro,Menlo,Monaco,Consolas,\"Courier New\",monospace;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaG9sbHlcXERvY3VtZW50c1xcaGVsbG8tcmVuZGVyXFxwYWNrYWdlc1xcc2l0ZS1hXFxzcmNcXHN0eWxlcy5nbG9iYWwuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBR3lCLEFBR2MsQUFTc0UsU0FSckUsVUFFa0MsdURBTzlDLDhGQU5xQyxtQ0FDRCxrQ0FDcEMiLCJmaWxlIjoiQzpcXFVzZXJzXFxob2xseVxcRG9jdW1lbnRzXFxoZWxsby1yZW5kZXJcXHBhY2thZ2VzXFxzaXRlLWFcXHNyY1xcc3R5bGVzLmdsb2JhbC5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIHN0eWxlcy9nbG9iYWwuanNcbmltcG9ydCBjc3MgZnJvbSBcInN0eWxlZC1qc3gvY3NzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNzcy5nbG9iYWxgXG4gIGJvZHkge1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xuICAgIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgXCJSb2JvdG9cIiwgXCJPeHlnZW5cIiwgXCJVYnVudHVcIiwgXCJDYW50YXJlbGxcIiwgXCJGaXJhIFNhbnNcIixcbiAgICAgIFwiRHJvaWQgU2Fuc1wiLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG4gICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbiAgfVxuXG4gIGNvZGUge1xuICAgIGZvbnQtZmFtaWx5OiBzb3VyY2UtY29kZS1wcm8sIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCBcIkNvdXJpZXIgTmV3XCIsIG1vbm9zcGFjZTtcbiAgfVxuYDtcbiJdfQ== */\n/*@ sourceURL=C:\\\\Users\\\\holly\\\\Documents\\\\hello-render\\\\packages\\\\site-a\\\\src\\\\styles.global.js */");
+/* harmony import */ var _erig_common_base_theme__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @erig/common/base-theme */ "../../node_modules/@erig/common/base-theme/index.tsx");
 
-_defaultExport.__hash = "4022544970";
-/* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
-
-/***/ }),
-
-/***/ "./src/theme/components sync recursive .js$":
-/*!****************************************!*\
-  !*** ./src/theme/components sync .js$ ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	var e = new Error("Cannot find module '" + req + "'");
-	e.code = 'MODULE_NOT_FOUND';
-	throw e;
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = "./src/theme/components sync recursive .js$";
-
-/***/ }),
-
-/***/ "./src/theme/index.jsx":
-/*!*****************************!*\
-  !*** ./src/theme/index.jsx ***!
-  \*****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__);
-function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-/* eslint-disable */
-
-const theme = {
+/* harmony default export */ __webpack_exports__["default"] = (Object(_erig_common_base_theme__WEBPACK_IMPORTED_MODULE_0__["getBaseTheme"])({
   typography: {
     useNextVariants: true,
     fontFamily: "'Poppins', sans-serif"
@@ -7022,18 +7080,7 @@ const theme = {
       variant: "body1"
     }
   }
-};
-let mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["createMuiTheme"])(theme);
-mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["responsiveFontSizes"])(mergedTheme);
-
-const req = __webpack_require__("./src/theme/components sync recursive .js$");
-
-let overrides = {};
-req.keys().forEach(filename => {
-  overrides = _objectSpread({}, overrides, {}, req(filename).default(mergedTheme));
-});
-mergedTheme.overrides = overrides;
-/* harmony default export */ __webpack_exports__["default"] = (mergedTheme);
+}));
 
 /***/ }),
 
@@ -7044,7 +7091,7 @@ mergedTheme.overrides = overrides;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\holly\Documents\hello-render\packages\site-a\src\pages\index.jsx */"./src/pages/index.jsx");
+module.exports = __webpack_require__(/*! C:\Users\holly\Desktop\private-label-sites-master\packages\site-a\src\pages\index.jsx */"./src/pages/index.jsx");
 
 
 /***/ }),

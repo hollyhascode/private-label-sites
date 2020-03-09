@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/next/dist/next-server/lib/constants.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/constants.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/constants.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -146,9 +146,9 @@ exports.PERMANENT_REDIRECT_STATUS = 308;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/document-context.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/document-context.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/document-context.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -174,9 +174,9 @@ exports.DocumentContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/utils.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/utils.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/utils.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -309,9 +309,9 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/server/utils.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/server/utils.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/server/utils.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -339,9 +339,9 @@ exports.cleanAmpPath = cleanAmpPath;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/pages/_document.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/pages/_document.js ***!
-  \***************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/pages/_document.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1028,9 +1028,9 @@ function getPageFile(page, buildId) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/server/htmlescape.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/server/htmlescape.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/server/htmlescape.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

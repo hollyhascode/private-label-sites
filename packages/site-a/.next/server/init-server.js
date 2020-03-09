@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./":
-/*!******************************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
-  \******************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
+  \******************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

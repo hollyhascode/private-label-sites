@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12,9 +12,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23,9 +23,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "../
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34,9 +34,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/map.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -45,9 +45,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/map */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -56,9 +56,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -67,9 +67,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
-  \*********************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -78,9 +78,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -89,9 +89,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!*******************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \*******************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -100,9 +100,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js":
-/*!********************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js ***!
-  \********************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -111,9 +111,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
-  \****************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -122,9 +122,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \********************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -133,9 +133,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -144,9 +144,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \********************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -155,9 +155,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/promise.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -166,9 +166,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "../../no
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -177,9 +177,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -188,9 +188,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "../../nod
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -199,9 +199,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/weak-map.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -210,9 +210,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/weak-map */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -227,9 +227,9 @@ module.exports = _arrayWithHoles;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -246,9 +246,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -263,9 +263,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/construct.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -308,9 +308,9 @@ module.exports = _construct;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -338,9 +338,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -368,9 +368,9 @@ function _defineProperty(obj, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -401,9 +401,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js":
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
-  \************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -437,9 +437,9 @@ function _objectWithoutProperties(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \*****************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \*****************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -469,9 +469,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -491,9 +491,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -521,9 +521,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -538,9 +538,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -609,9 +609,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -654,9 +654,9 @@ module.exports = _iterableToArrayLimit;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -669,9 +669,9 @@ module.exports = _nonIterableRest;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \**********************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -692,9 +692,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -714,9 +714,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -735,9 +735,9 @@ module.exports = _slicedToArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -766,9 +766,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/regenerator/index.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -778,9 +778,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -794,9 +794,9 @@ function _arrayWithHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -816,9 +816,9 @@ function _arrayWithoutHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
+  \**************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -836,9 +836,9 @@ function _assertThisInitialized(self) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/classCallCheck.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -854,9 +854,9 @@ function _classCallCheck(instance, Constructor) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/createClass.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/createClass.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/createClass.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -882,9 +882,9 @@ function _createClass(Constructor, protoProps, staticProps) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/defineProperty.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -909,9 +909,9 @@ function _defineProperty(obj, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/extends.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/extends.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/extends.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -939,9 +939,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/inheritsLoose.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -957,9 +957,9 @@ function _inheritsLoose(subClass, superClass) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/iterableToArray.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/iterableToArray.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/iterableToArray.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -973,9 +973,9 @@ function _iterableToArray(iter) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1015,9 +1015,9 @@ function _iterableToArrayLimit(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/nonIterableRest.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1031,9 +1031,9 @@ function _nonIterableRest() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1047,9 +1047,9 @@ function _nonIterableSpread() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js ***!
+  \****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1080,9 +1080,9 @@ function _objectWithoutProperties(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \*********************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1107,9 +1107,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/slicedToArray.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/slicedToArray.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/slicedToArray.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1129,9 +1129,9 @@ function _slicedToArray(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/toConsumableArray.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1151,9 +1151,9 @@ function _toConsumableArray(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/typeof.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/esm/typeof.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/esm/typeof.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1179,9 +1179,9 @@ function _typeof(obj) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/extends.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/extends.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/extends.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1208,9 +1208,9 @@ module.exports = _extends;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/interopRequireDefault.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1224,10 +1224,230 @@ module.exports = _interopRequireDefault;
 
 /***/ }),
 
+/***/ "../../node_modules/@erig/common/base-theme/components sync recursive .js$":
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/base-theme/components sync .js$ ***!
+  \*******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+function webpackEmptyContext(req) {
+	var e = new Error("Cannot find module '" + req + "'");
+	e.code = 'MODULE_NOT_FOUND';
+	throw e;
+}
+webpackEmptyContext.keys = function() { return []; };
+webpackEmptyContext.resolve = webpackEmptyContext;
+module.exports = webpackEmptyContext;
+webpackEmptyContext.id = "../../node_modules/@erig/common/base-theme/components sync recursive .js$";
+
+/***/ }),
+
+/***/ "../../node_modules/@erig/common/base-theme/index.tsx":
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/base-theme/index.tsx ***!
+  \********************************************************************************************************/
+/*! exports provided: getBaseTheme */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getBaseTheme", function() { return getBaseTheme; });
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-properties */ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptors */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptor */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-symbols */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/keys */ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/styles */ "../../node_modules/@material-ui/core/esm/styles/index.js");
+
+
+
+
+
+
+
+
+function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(target, key, source[key]); }); } else if (_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default.a) { _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default()(target, _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default()(source)); } else { ownKeys(Object(source)).forEach(function (key) { _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default()(target, key, _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(source, key)); }); } } return target; }
+
+/* eslint-disable */
+
+function getBaseTheme(options) {
+  var mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__["createMuiTheme"])(options);
+  mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__["responsiveFontSizes"])(mergedTheme);
+
+  var req = __webpack_require__("../../node_modules/@erig/common/base-theme/components sync recursive .js$");
+
+  var overrides = {};
+  req.keys().forEach(function (filename) {
+    overrides = _objectSpread({}, overrides, {}, req(filename)["default"](mergedTheme));
+  });
+  mergedTheme.overrides = overrides;
+  return mergedTheme;
+}
+
+/***/ }),
+
+/***/ "../../node_modules/@erig/common/components/BaseLayout.jsx":
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/BaseLayout.jsx ***!
+  \*************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "../../node_modules/styled-jsx/style.js");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/Box */ "../../node_modules/@material-ui/core/esm/Box/index.js");
+/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/Container */ "../../node_modules/@material-ui/core/esm/Container/index.js");
+/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/CssBaseline */ "../../node_modules/@material-ui/core/esm/CssBaseline/index.js");
+/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/styles */ "../../node_modules/@material-ui/styles/esm/index.js");
+/* harmony import */ var _EmailInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./EmailInput */ "../../node_modules/@erig/common/components/EmailInput.jsx");
+/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./header */ "../../node_modules/@erig/common/components/header/index.jsx");
+/* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-helmet */ "../../node_modules/react-helmet/lib/Helmet.js");
+/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _styles_global__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../styles.global */ "../../node_modules/@erig/common/styles.global.js");
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\BaseLayout.jsx";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
+
+
+
+
+
+
+
+
+
+
+var url = // eslint-disable-next-line max-len
+"https://fonts.googleapis.com/css?family=Poppins:200,400,500,700,900|Oswald:400,700&display=swap";
+_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"].setSecondFamily("'Oswald', sans-serif");
+
+var BaseLayout = function BaseLayout(_ref) {
+  var theme = _ref.theme,
+      children = _ref.children;
+  return __jsx(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__["ThemeProvider"], {
+    theme: theme,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, __jsx(react__WEBPACK_IMPORTED_MODULE_8___default.a.Fragment, null, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: _styles_global__WEBPACK_IMPORTED_MODULE_10__["default"].__hash,
+    __self: this
+  }, _styles_global__WEBPACK_IMPORTED_MODULE_10__["default"]), __jsx(react_helmet__WEBPACK_IMPORTED_MODULE_9__["Helmet"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }, __jsx("link", {
+    href: url,
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  })), __jsx(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: this
+  }), __jsx(_header__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    bgcolor: "common.white",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }, children, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    bgcolor: "grey.200",
+    textAlign: "center",
+    position: "relative",
+    zIndex: 0,
+    pt: 10,
+    pb: 5,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    maxWidth: "sm",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    spacing: "medium",
+    secondFamily: true,
+    weight: 500,
+    gutterBottom: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33
+    },
+    __self: this
+  }, "SUBSCRIBE TO OUR NEWSLETTER"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    variant: "caption",
+    display: "block",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36
+    },
+    __self: this
+  }, "To always stay update with our products, news, and special discounts"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    variant: "caption",
+    display: "block",
+    bottomSpace: "medium",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39
+    },
+    __self: this
+  }, "enter you email below"), __jsx(_EmailInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42
+    },
+    __self: this
+  }))))));
+};
+
+BaseLayout.propTypes = {};
+BaseLayout.defaultProps = {};
+/* harmony default export */ __webpack_exports__["default"] = (BaseLayout);
+
+/***/ }),
+
 /***/ "../../node_modules/@erig/common/components/BrandPicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/BrandPicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/BrandPicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1243,7 +1463,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_ListItemSecondaryAction__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/ListItemSecondaryAction */ "../../node_modules/@material-ui/core/esm/ListItemSecondaryAction/index.js");
 /* harmony import */ var _material_ui_core_Checkbox__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Checkbox */ "../../node_modules/@material-ui/core/esm/Checkbox/index.js");
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/ListItemText */ "../../node_modules/@material-ui/core/esm/ListItemText/index.js");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\BrandPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\BrandPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1339,9 +1559,9 @@ BrandPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/CategoryPicker.jsx":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/CategoryPicker.jsx ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/CategoryPicker.jsx ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1355,7 +1575,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_ListItem__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/ListItem */ "../../node_modules/@material-ui/core/esm/ListItem/index.js");
 /* harmony import */ var _material_ui_core_ListItemText__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/ListItemText */ "../../node_modules/@material-ui/core/esm/ListItemText/index.js");
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\CategoryPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\CategoryPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1451,9 +1671,9 @@ CategoryPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ColorPicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ColorPicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ColorPicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1469,7 +1689,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Icon__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Icon */ "../../node_modules/@erig/common/extensions/Icon.jsx");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Grid */ "../../node_modules/@material-ui/core/esm/Grid/index.js");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ColorPicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ColorPicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -1606,9 +1826,9 @@ ColorPicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/EmailInput.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/EmailInput.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/EmailInput.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1619,7 +1839,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/styles */ "../../node_modules/@material-ui/styles/esm/index.js");
 /* harmony import */ var _material_ui_core_InputBase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/InputBase */ "../../node_modules/@material-ui/core/esm/InputBase/index.js");
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\EmailInput.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\EmailInput.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1676,9 +1896,9 @@ EmailInput.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/Expander.jsx":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Expander.jsx ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/Expander.jsx ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1698,7 +1918,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_icons_KeyboardArrowUp__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_KeyboardArrowUp__WEBPACK_IMPORTED_MODULE_8__);
 /* harmony import */ var _material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @material-ui/icons/KeyboardArrowDown */ "../../node_modules/@material-ui/icons/KeyboardArrowDown.js");
 /* harmony import */ var _material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_KeyboardArrowDown__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Expander.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\Expander.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1786,156 +2006,10 @@ Expander.defaultProps = {};
 
 /***/ }),
 
-/***/ "../../node_modules/@erig/common/components/Layout.jsx":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Layout.jsx ***!
-  \*********************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "../../node_modules/styled-jsx/style.js");
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/Box */ "../../node_modules/@material-ui/core/esm/Box/index.js");
-/* harmony import */ var _material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/Container */ "../../node_modules/@material-ui/core/esm/Container/index.js");
-/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/CssBaseline */ "../../node_modules/@material-ui/core/esm/CssBaseline/index.js");
-/* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/styles */ "../../node_modules/@material-ui/styles/esm/index.js");
-/* harmony import */ var _EmailInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./EmailInput */ "../../node_modules/@erig/common/components/EmailInput.jsx");
-/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./header */ "../../node_modules/@erig/common/components/header/index.jsx");
-/* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-helmet */ "../../node_modules/react-helmet/lib/Helmet.js");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Layout.jsx";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
-
-
-
-
-
-
-
-
-
-var url = // eslint-disable-next-line max-len
-"https://fonts.googleapis.com/css?family=Poppins:200,400,500,700,900|Oswald:400,700&display=swap";
-_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"].setSecondFamily("'Oswald', sans-serif");
-
-var Layout = function Layout(_ref) {
-  var theme = _ref.theme,
-      globalStyles = _ref.globalStyles,
-      children = _ref.children;
-  return __jsx(_material_ui_styles__WEBPACK_IMPORTED_MODULE_4__["ThemeProvider"], {
-    theme: theme,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, __jsx(react__WEBPACK_IMPORTED_MODULE_8___default.a.Fragment, null, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: globalStyles.__hash,
-    __self: this
-  }, globalStyles), __jsx(react_helmet__WEBPACK_IMPORTED_MODULE_9__["Helmet"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, __jsx("link", {
-    href: url,
-    rel: "stylesheet",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  })), __jsx(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }), __jsx(_header__WEBPACK_IMPORTED_MODULE_6__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    bgcolor: "common.white",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, children, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    bgcolor: "grey.200",
-    textAlign: "center",
-    position: "relative",
-    zIndex: 0,
-    pt: 10,
-    pb: 5,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    maxWidth: "sm",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }, __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-    spacing: "medium",
-    secondFamily: true,
-    weight: 500,
-    gutterBottom: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
-  }, "SUBSCRIBE TO OUR NEWSLETTER"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-    variant: "caption",
-    display: "block",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "To always stay update with our products, news, and special discounts"), __jsx(_extensions_Typography__WEBPACK_IMPORTED_MODULE_7__["default"], {
-    variant: "caption",
-    display: "block",
-    bottomSpace: "medium",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: this
-  }, "enter you email below"), __jsx(_EmailInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }))))));
-};
-
-Layout.propTypes = {};
-Layout.defaultProps = {};
-/* harmony default export */ __webpack_exports__["default"] = (Layout);
-
-/***/ }),
-
 /***/ "../../node_modules/@erig/common/components/MegaMenu.jsx":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/MegaMenu.jsx ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/MegaMenu.jsx ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1960,7 +2034,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_13__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! next/router */ "../../node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_14__);
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\MegaMenu.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\MegaMenu.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement;
 
 
@@ -2208,9 +2282,9 @@ MegaMenu.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/MobileSelector.jsx":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/MobileSelector.jsx ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/MobileSelector.jsx ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2232,7 +2306,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _BrandPicker__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./BrandPicker */ "../../node_modules/@erig/common/components/BrandPicker.jsx");
 /* harmony import */ var _ColorPicker__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./ColorPicker */ "../../node_modules/@erig/common/components/ColorPicker.jsx");
 /* harmony import */ var _SizePicker__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./SizePicker */ "../../node_modules/@erig/common/components/SizePicker.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\MobileSelector.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\MobileSelector.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2503,9 +2577,9 @@ MobileSelector.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/Pagination.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/Pagination.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/Pagination.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2522,7 +2596,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Grid */ "../../node_modules/@material-ui/core/esm/Grid/index.js");
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\Pagination.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\Pagination.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -2675,9 +2749,9 @@ Pagination.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/PricePicker.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/PricePicker.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/PricePicker.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2695,7 +2769,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\PricePicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\PricePicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -2826,9 +2900,9 @@ PricePicker.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductAds.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductAds.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductAds.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2864,7 +2938,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductAds.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductAds.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -3069,9 +3143,9 @@ ProductAds.test2 = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCard.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCard.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCard.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3084,7 +3158,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ProductCardFront__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ProductCardFront */ "../../node_modules/@erig/common/components/ProductCardFront.jsx");
 /* harmony import */ var _ProductCardBack__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./ProductCardBack */ "../../node_modules/@erig/common/components/ProductCardBack.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCard.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCard.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -3207,9 +3281,9 @@ ProductCard.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCardBack.jsx":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCardBack.jsx ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCardBack.jsx ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3230,7 +3304,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
 /* harmony import */ var _ProductInfo__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./ProductInfo */ "../../node_modules/@erig/common/components/ProductInfo.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCardBack.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCardBack.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -3433,9 +3507,9 @@ ProductCardBack.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductCardFront.jsx":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductCardFront.jsx ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductCardFront.jsx ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3451,7 +3525,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_styles__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/styles */ "../../node_modules/@material-ui/styles/esm/index.js");
 /* harmony import */ var _ProductInfo__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./ProductInfo */ "../../node_modules/@erig/common/components/ProductInfo.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductCardFront.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductCardFront.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -3561,9 +3635,9 @@ ProductCardFront.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/ProductInfo.jsx":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/ProductInfo.jsx ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/ProductInfo.jsx ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3577,7 +3651,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Box__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/Box */ "../../node_modules/@material-ui/core/esm/Box/index.js");
 /* harmony import */ var _erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @erig/common/extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\ProductInfo.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\ProductInfo.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -3636,9 +3710,9 @@ ProductInfo.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/SizePicker.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/SizePicker.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/SizePicker.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3654,7 +3728,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 /* harmony import */ var _material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Grid */ "../../node_modules/@material-ui/core/esm/Grid/index.js");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\SizePicker.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\SizePicker.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -3781,9 +3855,9 @@ SizePicker.data = [{
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiHeader.jsx":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiHeader.jsx ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiHeader.jsx ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3794,7 +3868,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/Hidden */ "../../node_modules/@material-ui/core/esm/Hidden/index.js");
 /* harmony import */ var _AmiMiniHeader__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AmiMiniHeader */ "../../node_modules/@erig/common/components/header/AmiMiniHeader.jsx");
 /* harmony import */ var _AmiLargeHeader__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AmiLargeHeader */ "../../node_modules/@erig/common/components/header/AmiLargeHeader.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -3884,9 +3958,9 @@ AmiHeader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiLargeHeader.jsx":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiLargeHeader.jsx ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiLargeHeader.jsx ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3904,7 +3978,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var _MegaMenu__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../MegaMenu */ "../../node_modules/@erig/common/components/MegaMenu.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiLargeHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiLargeHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 
@@ -4180,9 +4254,9 @@ AmiLargeHeader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/AmiMiniHeader.jsx":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/AmiMiniHeader.jsx ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/AmiMiniHeader.jsx ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4210,7 +4284,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _extensions_Icon__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../../extensions/Icon */ "../../node_modules/@erig/common/extensions/Icon.jsx");
 /* harmony import */ var _extensions_Button__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../../extensions/Button */ "../../node_modules/@erig/common/extensions/Button.jsx");
 /* harmony import */ var _extensions_Typography__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../../extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\components\\header\\AmiMiniHeader.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\components\\header\\AmiMiniHeader.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -4595,9 +4669,9 @@ AmiMiniHeader.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/components/header/index.jsx":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/components/header/index.jsx ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/components/header/index.jsx ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4611,9 +4685,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Button.jsx":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Button.jsx ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Button.jsx ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4654,7 +4728,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Button.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Button.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -5163,9 +5237,9 @@ Button.getTheme = function () {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Icon.jsx":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Icon.jsx ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Icon.jsx ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5182,7 +5256,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Icon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Icon */ "../../node_modules/@material-ui/core/esm/Icon/index.js");
 
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Icon.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Icon.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -5392,9 +5466,9 @@ Icon.getTheme = function () {};
 /***/ }),
 
 /***/ "../../node_modules/@erig/common/extensions/Typography.jsx":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@erig/common/extensions/Typography.jsx ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/extensions/Typography.jsx ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5432,7 +5506,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\node_modules\\@erig\\common\\extensions\\Typography.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\node_modules\\@erig\\common\\extensions\\Typography.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_8___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -5717,10 +5791,26 @@ Typography.setSecondFamily = function (family) {
 
 /***/ }),
 
+/***/ "../../node_modules/@erig/common/styles.global.js":
+/*!****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@erig/common/styles.global.js ***!
+  \****************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+var _defaultExport = new String("body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\", \"Droid Sans\",\"Helvetica Neue\",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}code{font-family:source-code-pro,Menlo,Monaco,Consolas,\"Courier New\",monospace;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaG9sbHlcXERlc2t0b3BcXHByaXZhdGUtbGFiZWwtc2l0ZXMtbWFzdGVyXFxub2RlX21vZHVsZXNcXEBlcmlnXFxjb21tb25cXHN0eWxlcy5nbG9iYWwuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRXlCLEFBR2MsQUFTc0UsU0FSckUsVUFFa0MsdURBTzlDLDhGQU5xQyxtQ0FDRCxrQ0FDcEMiLCJmaWxlIjoiQzpcXFVzZXJzXFxob2xseVxcRGVza3RvcFxccHJpdmF0ZS1sYWJlbC1zaXRlcy1tYXN0ZXJcXG5vZGVfbW9kdWxlc1xcQGVyaWdcXGNvbW1vblxcc3R5bGVzLmdsb2JhbC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBjc3MgZnJvbSBcInN0eWxlZC1qc3gvY3NzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNzcy5nbG9iYWxgXG4gIGJvZHkge1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xuICAgIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgXCJSb2JvdG9cIiwgXCJPeHlnZW5cIiwgXCJVYnVudHVcIiwgXCJDYW50YXJlbGxcIiwgXCJGaXJhIFNhbnNcIixcbiAgICAgIFwiRHJvaWQgU2Fuc1wiLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG4gICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbiAgfVxuXG4gIGNvZGUge1xuICAgIGZvbnQtZmFtaWx5OiBzb3VyY2UtY29kZS1wcm8sIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCBcIkNvdXJpZXIgTmV3XCIsIG1vbm9zcGFjZTtcbiAgfVxuYDtcbiJdfQ== */\n/*@ sourceURL=C:\\\\Users\\\\holly\\\\Desktop\\\\private-label-sites-master\\\\node_modules\\\\@erig\\\\common\\\\styles.global.js */");
+
+_defaultExport.__hash = "4022544970";
+/* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
+
+/***/ }),
+
 /***/ "../../node_modules/@material-ui/core/esm/AppBar/AppBar.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/AppBar/AppBar.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/AppBar/AppBar.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5888,9 +5978,9 @@ var AppBar = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Ap
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/AppBar/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/AppBar/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/AppBar/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5904,9 +5994,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Backdrop/Backdrop.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Backdrop/Backdrop.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Backdrop/Backdrop.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6020,9 +6110,9 @@ var Backdrop = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function 
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Backdrop/index.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Backdrop/index.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Backdrop/index.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6036,9 +6126,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Box/Box.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Box/Box.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Box/Box.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: styleFunction, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6062,9 +6152,9 @@ var Box = Object(_styles_styled__WEBPACK_IMPORTED_MODULE_1__["default"])('div')(
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Box/index.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Box/index.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Box/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default, styleFunction */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6080,9 +6170,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Button/Button.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Button/Button.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Button/Button.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6535,9 +6625,9 @@ var Button = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Bu
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Button/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Button/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Button/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6551,9 +6641,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ButtonBase/ButtonBase.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ButtonBase/ButtonBase.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ButtonBase/ButtonBase.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7051,9 +7141,9 @@ var ButtonBase = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(functio
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ButtonBase/Ripple.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ButtonBase/Ripple.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ButtonBase/Ripple.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7168,9 +7258,9 @@ function Ripple(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ButtonBase/TouchRipple.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ButtonBase/TouchRipple.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ButtonBase/TouchRipple.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: DELAY_RIPPLE, styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7504,9 +7594,9 @@ var TouchRipple = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(functi
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ButtonBase/index.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ButtonBase/index.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ButtonBase/index.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7520,9 +7610,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Checkbox/Checkbox.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Checkbox/Checkbox.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Checkbox/Checkbox.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7749,9 +7839,9 @@ var Checkbox = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function 
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Checkbox/index.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Checkbox/index.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Checkbox/index.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7765,9 +7855,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/CircularProgress/CircularProgress.js":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/CircularProgress/CircularProgress.js ***!
-  \*********************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/CircularProgress/CircularProgress.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8025,9 +8115,9 @@ var CircularProgress = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(f
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/CircularProgress/index.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/CircularProgress/index.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/CircularProgress/index.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8041,9 +8131,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Collapse/Collapse.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Collapse/Collapse.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Collapse/Collapse.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8332,9 +8422,9 @@ Collapse.muiSupportAuto = true;
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Collapse/index.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Collapse/index.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Collapse/index.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8348,9 +8438,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Container/Container.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Container/Container.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Container/Container.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8500,9 +8590,9 @@ var Container = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(function
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Container/index.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Container/index.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Container/index.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8516,9 +8606,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/CssBaseline/CssBaseline.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/CssBaseline/CssBaseline.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/CssBaseline/CssBaseline.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: html, body, styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8620,9 +8710,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/CssBaseline/index.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/CssBaseline/index.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/CssBaseline/index.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8636,9 +8726,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Divider/Divider.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Divider/Divider.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Divider/Divider.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8791,9 +8881,9 @@ var Divider = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function D
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Divider/index.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Divider/index.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Divider/index.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8807,9 +8897,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Drawer/Drawer.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Drawer/Drawer.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Drawer/Drawer.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: styles, isHorizontal, getAnchor, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9108,9 +9198,9 @@ var Drawer = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Dr
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Drawer/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Drawer/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Drawer/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9124,9 +9214,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Fade/Fade.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Fade/Fade.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Fade/Fade.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9270,9 +9360,9 @@ var Fade = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Fade
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Fade/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Fade/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Fade/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9286,9 +9376,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/FormControl/FormControlContext.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/FormControl/FormControlContext.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/FormControl/FormControlContext.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: useFormControl, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9316,9 +9406,9 @@ function useFormControl() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/FormControl/formControlState.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/FormControl/formControlState.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/FormControl/formControlState.js ***!
+  \****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9345,9 +9435,9 @@ function formControlState(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/FormControl/useFormControl.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/FormControl/useFormControl.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/FormControl/useFormControl.js ***!
+  \**************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9366,9 +9456,9 @@ function useFormControl() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Grid/Grid.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Grid/Grid.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Grid/Grid.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9777,9 +9867,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Grid/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Grid/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Grid/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9793,9 +9883,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Hidden/Hidden.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Hidden/Hidden.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Hidden/Hidden.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9963,9 +10053,9 @@ function Hidden(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Hidden/HiddenCss.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Hidden/HiddenCss.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Hidden/HiddenCss.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10143,9 +10233,9 @@ function HiddenCss(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Hidden/HiddenJs.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Hidden/HiddenJs.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Hidden/HiddenJs.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10309,9 +10399,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Hidden/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Hidden/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Hidden/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10325,9 +10415,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Icon/Icon.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Icon/Icon.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Icon/Icon.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10463,9 +10553,9 @@ Icon.muiName = 'Icon';
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Icon/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Icon/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Icon/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10479,9 +10569,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/IconButton/IconButton.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/IconButton/IconButton.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/IconButton/IconButton.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10704,9 +10794,9 @@ var IconButton = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(functio
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/IconButton/index.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/IconButton/index.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/IconButton/index.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10720,9 +10810,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/InputBase/InputBase.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/InputBase/InputBase.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/InputBase/InputBase.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11396,9 +11486,9 @@ var InputBase = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/InputBase/index.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/InputBase/index.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/InputBase/index.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11412,9 +11502,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/InputBase/utils.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/InputBase/utils.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/InputBase/utils.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: hasValue, isFilled, isAdornedStart */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11456,9 +11546,9 @@ function isAdornedStart(obj) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Link/Link.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Link/Link.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Link/Link.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11664,9 +11754,9 @@ var Link = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Link
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Link/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Link/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Link/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11680,9 +11770,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/List/List.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/List/List.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/List/List.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11800,9 +11890,9 @@ var List = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function List
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/List/ListContext.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/List/ListContext.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/List/ListContext.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11826,9 +11916,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/List/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/List/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/List/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11842,9 +11932,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItem/ListItem.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItem/ListItem.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItem/ListItem.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12170,9 +12260,9 @@ var ListItem = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function 
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItem/index.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItem/index.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItem/index.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12186,9 +12276,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemIcon/ListItemIcon.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemIcon/ListItemIcon.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemIcon/ListItemIcon.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12267,9 +12357,9 @@ var ListItemIcon = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(funct
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemIcon/index.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemIcon/index.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemIcon/index.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12283,9 +12373,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemSecondaryAction/ListItemSecondaryAction.js":
-/*!***********************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemSecondaryAction/ListItemSecondaryAction.js ***!
-  \***********************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemSecondaryAction/ListItemSecondaryAction.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12354,9 +12444,9 @@ ListItemSecondaryAction.muiName = 'ListItemSecondaryAction';
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemSecondaryAction/index.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemSecondaryAction/index.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemSecondaryAction/index.js ***!
+  \*****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12370,9 +12460,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemText/ListItemText.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemText/ListItemText.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemText/ListItemText.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12528,9 +12618,9 @@ var ListItemText = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(funct
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListItemText/index.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListItemText/index.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListItemText/index.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12544,9 +12634,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListSubheader/ListSubheader.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListSubheader/ListSubheader.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListSubheader/ListSubheader.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12682,9 +12772,9 @@ var ListSubheader = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(func
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/ListSubheader/index.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/ListSubheader/index.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/ListSubheader/index.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12698,9 +12788,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Modal/Modal.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Modal/Modal.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Modal/Modal.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13118,9 +13208,9 @@ var Modal = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Mod
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Modal/ModalManager.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Modal/ModalManager.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Modal/ModalManager.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: ariaHidden, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13392,9 +13482,9 @@ function () {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Modal/SimpleBackdrop.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Modal/SimpleBackdrop.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Modal/SimpleBackdrop.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13463,9 +13553,9 @@ var SimpleBackdrop = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(fun
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Modal/TrapFocus.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Modal/TrapFocus.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Modal/TrapFocus.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13699,9 +13789,9 @@ function TrapFocus(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Modal/index.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Modal/index.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Modal/index.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default, ModalManager */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13719,9 +13809,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/NoSsr/NoSsr.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/NoSsr/NoSsr.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/NoSsr/NoSsr.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13799,9 +13889,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/NoSsr/index.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/NoSsr/index.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/NoSsr/index.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13815,9 +13905,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Paper/Paper.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Paper/Paper.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Paper/Paper.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13934,9 +14024,9 @@ var Paper = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Pap
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Paper/index.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Paper/index.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Paper/index.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -13950,9 +14040,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Portal/Portal.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Portal/Portal.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Portal/Portal.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14074,9 +14164,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Portal/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Portal/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Portal/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14090,9 +14180,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Slide/Slide.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Slide/Slide.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Slide/Slide.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: setTranslateValue, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14374,9 +14464,9 @@ var Slide = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(function Sli
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Slide/index.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Slide/index.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Slide/index.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14390,9 +14480,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Slider/Slider.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Slider/Slider.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Slider/Slider.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -15496,9 +15586,9 @@ var Slider = react__WEBPACK_IMPORTED_MODULE_4___default.a.forwardRef(function Sl
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Slider/ValueLabel.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Slider/ValueLabel.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Slider/ValueLabel.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -15588,9 +15678,9 @@ function ValueLabel(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Slider/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Slider/index.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Slider/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -15604,9 +15694,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/SvgIcon/SvgIcon.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/SvgIcon/SvgIcon.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/SvgIcon/SvgIcon.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -15786,9 +15876,9 @@ SvgIcon.muiName = 'SvgIcon';
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/SvgIcon/index.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/SvgIcon/index.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/SvgIcon/index.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -15802,9 +15892,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tab/Tab.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tab/Tab.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tab/Tab.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16062,9 +16152,9 @@ var Tab = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(function Tab(p
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tab/index.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tab/index.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tab/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16078,9 +16168,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tabs/ScrollbarSize.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tabs/ScrollbarSize.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tabs/ScrollbarSize.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16154,9 +16244,9 @@ function ScrollbarSize(props) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tabs/TabIndicator.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tabs/TabIndicator.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tabs/TabIndicator.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16247,9 +16337,9 @@ var TabIndicator = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(funct
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tabs/TabScrollButton.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tabs/TabScrollButton.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tabs/TabScrollButton.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16361,9 +16451,9 @@ var TabScrollButton = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(fu
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tabs/Tabs.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tabs/Tabs.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tabs/Tabs.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16919,9 +17009,9 @@ var Tabs = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(function Tabs
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Tabs/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Tabs/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Tabs/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -16935,9 +17025,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/TextareaAutosize/TextareaAutosize.js":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/TextareaAutosize/TextareaAutosize.js ***!
-  \*********************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/TextareaAutosize/TextareaAutosize.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17137,9 +17227,9 @@ var TextareaAutosize = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(f
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/TextareaAutosize/index.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/TextareaAutosize/index.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/TextareaAutosize/index.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17153,9 +17243,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Toolbar/Toolbar.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Toolbar/Toolbar.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Toolbar/Toolbar.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17261,9 +17351,9 @@ var Toolbar = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(function T
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Toolbar/index.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Toolbar/index.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Toolbar/index.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17277,9 +17367,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Typography/Typography.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Typography/Typography.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Typography/Typography.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17551,9 +17641,9 @@ var Typography = react__WEBPACK_IMPORTED_MODULE_2___default.a.forwardRef(functio
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/Typography/index.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/Typography/index.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/Typography/index.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17567,9 +17657,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/blue.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/blue.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/blue.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17596,9 +17686,9 @@ var blue = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/common.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/common.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/common.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17613,9 +17703,9 @@ var common = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/green.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/green.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/green.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17642,9 +17732,9 @@ var green = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/grey.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/grey.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/grey.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17671,9 +17761,9 @@ var grey = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/indigo.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/indigo.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/indigo.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17700,9 +17790,9 @@ var indigo = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/orange.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/orange.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/orange.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17729,9 +17819,9 @@ var orange = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/pink.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/pink.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/pink.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17758,9 +17848,9 @@ var pink = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/colors/red.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/colors/red.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/colors/red.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17787,9 +17877,9 @@ var red = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/SwitchBase.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/SwitchBase.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/SwitchBase.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: styles, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18056,9 +18146,9 @@ var SwitchBase = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(functio
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/animate.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/animate.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/animate.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18119,9 +18209,9 @@ function animate(property, element, to) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/CheckBox.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/CheckBox.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/CheckBox.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18143,9 +18233,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/CheckBoxOutlineBlank.js":
-/*!***************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/CheckBoxOutlineBlank.js ***!
-  \***************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/CheckBoxOutlineBlank.js ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18167,9 +18257,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/IndeterminateCheckBox.js":
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/IndeterminateCheckBox.js ***!
-  \****************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/IndeterminateCheckBox.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18191,9 +18281,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowLeft.js":
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowLeft.js ***!
-  \************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowLeft.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18215,9 +18305,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowRight.js":
-/*!*************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowRight.js ***!
-  \*************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/KeyboardArrowRight.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18239,9 +18329,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/internal/svg-icons/createSvgIcon.js":
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/internal/svg-icons/createSvgIcon.js ***!
-  \********************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/internal/svg-icons/createSvgIcon.js ***!
+  \********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18273,9 +18363,9 @@ function createSvgIcon(path, displayName) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/colorManipulator.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/colorManipulator.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/colorManipulator.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: hexToRgb, rgbToHex, hslToRgb, decomposeColor, recomposeColor, getContrastRatio, getLuminance, emphasize, fade, darken, lighten */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18574,9 +18664,9 @@ function lighten(color, coefficient) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createBreakpoints.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createBreakpoints.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createBreakpoints.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: keys, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18657,9 +18747,9 @@ function createBreakpoints(breakpoints) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createMixins.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createMixins.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createMixins.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18713,9 +18803,9 @@ function createMixins(breakpoints, spacing, mixins) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createMuiTheme.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createMuiTheme.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createMuiTheme.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18826,9 +18916,9 @@ function createMuiTheme() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createPalette.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createPalette.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createPalette.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: light, dark, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19081,9 +19171,9 @@ function createPalette(palette) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createSpacing.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createSpacing.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createSpacing.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19169,9 +19259,9 @@ function createSpacing() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createStyles.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createStyles.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createStyles.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19197,9 +19287,9 @@ function createStyles(styles) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/createTypography.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/createTypography.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/createTypography.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19309,9 +19399,9 @@ function createTypography(palette, typography) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/cssUtils.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/cssUtils.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/cssUtils.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: alignProperty, fontGrid, responsiveProperty */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19400,9 +19490,9 @@ function responsiveProperty(_ref3) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/defaultTheme.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/defaultTheme.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/defaultTheme.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19416,10 +19506,10 @@ var defaultTheme = Object(_createMuiTheme__WEBPACK_IMPORTED_MODULE_0__["default"
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/index.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/index.js ***!
-  \************************************************************************************************/
-/*! exports provided: createMuiTheme, createStyles, makeStyles, responsiveFontSizes, styled, useTheme, withStyles, withTheme, createGenerateClassName, jssPreset, ServerStyleSheets, StylesProvider, MuiThemeProvider, ThemeProvider, hexToRgb, rgbToHex, hslToRgb, decomposeColor, recomposeColor, getContrastRatio, getLuminance, emphasize, fade, darken, lighten, easing, duration */
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/index.js ***!
+  \************************************************************************************************************/
+/*! exports provided: hexToRgb, rgbToHex, hslToRgb, decomposeColor, recomposeColor, getContrastRatio, getLuminance, emphasize, fade, darken, lighten, createMuiTheme, createStyles, makeStyles, responsiveFontSizes, styled, easing, duration, useTheme, withStyles, withTheme, createGenerateClassName, jssPreset, ServerStyleSheets, StylesProvider, MuiThemeProvider, ThemeProvider */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19504,9 +19594,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/makeStyles.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/makeStyles.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/makeStyles.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19531,9 +19621,9 @@ function makeStyles(stylesOrCreator) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/responsiveFontSizes.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/responsiveFontSizes.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/responsiveFontSizes.js ***!
+  \**************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19623,9 +19713,9 @@ function responsiveFontSizes(themeInput) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/shadows.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/shadows.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/shadows.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19646,9 +19736,9 @@ var shadows = ['none', createShadow(0, 2, 1, -1, 0, 1, 1, 0, 0, 1, 3, 0), create
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/shape.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/shape.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/shape.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19662,9 +19752,9 @@ var shape = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/styled.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/styled.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/styled.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19691,9 +19781,9 @@ var styled = function styled(Component) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/transitions.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/transitions.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/transitions.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: easing, duration, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19808,9 +19898,9 @@ function formatMs(milliseconds) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/useTheme.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/useTheme.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/useTheme.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19828,9 +19918,9 @@ function useTheme() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/withStyles.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/withStyles.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/withStyles.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19854,9 +19944,9 @@ function withStyles(stylesOrCreator, options) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/withTheme.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/withTheme.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/withTheme.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19874,9 +19964,9 @@ var withTheme = Object(_material_ui_styles__WEBPACK_IMPORTED_MODULE_0__["withThe
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/styles/zIndex.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/styles/zIndex.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/styles/zIndex.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19898,9 +19988,9 @@ var zIndex = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/transitions/utils.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/transitions/utils.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/transitions/utils.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: reflow, getTransitionProps */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19924,9 +20014,9 @@ function getTransitionProps(props, options) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/useMediaQuery/index.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/useMediaQuery/index.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/useMediaQuery/index.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19940,9 +20030,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/useMediaQuery/useMediaQuery.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/useMediaQuery/useMediaQuery.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/useMediaQuery/useMediaQuery.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20036,9 +20126,9 @@ function useMediaQuery(queryInput) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/useScrollTrigger/index.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/useScrollTrigger/index.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/useScrollTrigger/index.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20052,9 +20142,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/useScrollTrigger/useScrollTrigger.js":
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/useScrollTrigger/useScrollTrigger.js ***!
-  \*********************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/useScrollTrigger/useScrollTrigger.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20125,9 +20215,9 @@ function useScrollTrigger() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/capitalize.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/capitalize.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/capitalize.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20151,9 +20241,9 @@ function capitalize(string) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/createChainedFunction.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/createChainedFunction.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/createChainedFunction.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20199,9 +20289,9 @@ function createChainedFunction() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/debounce.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/debounce.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/debounce.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20240,9 +20330,9 @@ function debounce(func) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/focusVisible.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/focusVisible.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/focusVisible.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: teardown, useIsFocusVisible */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20408,9 +20498,9 @@ function useIsFocusVisible() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/getScrollbarSize.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/getScrollbarSize.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/getScrollbarSize.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20435,9 +20525,9 @@ function getScrollbarSize() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/isMuiElement.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/isMuiElement.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/isMuiElement.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20454,9 +20544,9 @@ function isMuiElement(element, muiNames) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/ownerDocument.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/ownerDocument.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/ownerDocument.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20470,9 +20560,9 @@ function ownerDocument(node) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/ownerWindow.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/ownerWindow.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/ownerWindow.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20489,9 +20579,9 @@ function ownerWindow(node) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/requirePropFactory.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/requirePropFactory.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/requirePropFactory.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20519,9 +20609,9 @@ function requirePropFactory(componentNameInError) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/scrollLeft.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/scrollLeft.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/scrollLeft.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: detectScrollType, getNormalizedScrollLeft */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20598,9 +20688,9 @@ function getNormalizedScrollLeft(element, direction) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/setRef.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/setRef.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/setRef.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20619,9 +20709,9 @@ function setRef(ref, value) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/unsupportedProp.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/unsupportedProp.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/unsupportedProp.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20643,9 +20733,9 @@ function unsupportedProp(props, propName, componentName, location, propFullName)
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/useControlled.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/useControlled.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/useControlled.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20698,9 +20788,9 @@ function useControlled(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/useEventCallback.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/useEventCallback.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/useEventCallback.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20730,9 +20820,9 @@ function useEventCallback(fn) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/utils/useForkRef.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/utils/useForkRef.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/utils/useForkRef.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20765,9 +20855,9 @@ function useForkRef(refA, refB) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/withWidth/index.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/withWidth/index.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/withWidth/index.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default, isWidthUp, isWidthDown */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20786,9 +20876,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/core/esm/withWidth/withWidth.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/core/esm/withWidth/withWidth.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/core/esm/withWidth/withWidth.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: isWidthUp, isWidthDown, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20942,9 +21032,9 @@ var withWidth = function withWidth() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/icons/KeyboardArrowDown.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/icons/KeyboardArrowDown.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/icons/KeyboardArrowDown.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20971,9 +21061,9 @@ exports.default = _default;
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/icons/KeyboardArrowUp.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/icons/KeyboardArrowUp.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/icons/KeyboardArrowUp.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21000,9 +21090,9 @@ exports.default = _default;
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/icons/utils/createSvgIcon.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/icons/utils/createSvgIcon.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/icons/utils/createSvgIcon.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21040,9 +21130,9 @@ function createSvgIcon(path, displayName) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/ServerStyleSheets/ServerStyleSheets.js":
-/*!*************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/ServerStyleSheets/ServerStyleSheets.js ***!
-  \*************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/ServerStyleSheets/ServerStyleSheets.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21116,9 +21206,9 @@ function () {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/ServerStyleSheets/index.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/ServerStyleSheets/index.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/ServerStyleSheets/index.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21132,9 +21222,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/StylesProvider/StylesProvider.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/StylesProvider/StylesProvider.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/StylesProvider/StylesProvider.js ***!
+  \*******************************************************************************************************************************/
 /*! exports provided: sheetsManager, StylesContext, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21307,9 +21397,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/StylesProvider/index.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/StylesProvider/index.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/StylesProvider/index.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default, sheetsManager, StylesContext */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21328,9 +21418,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/ThemeProvider/ThemeProvider.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/ThemeProvider/ThemeProvider.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/ThemeProvider/ThemeProvider.js ***!
+  \*****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21421,9 +21511,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/ThemeProvider/index.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/ThemeProvider/index.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/ThemeProvider/index.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21437,9 +21527,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/ThemeProvider/nested.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/ThemeProvider/nested.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/ThemeProvider/nested.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21451,9 +21541,9 @@ var hasSymbol = typeof Symbol === 'function' && Symbol.for;
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/createGenerateClassName/createGenerateClassName.js":
-/*!*************************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/createGenerateClassName/createGenerateClassName.js ***!
-  \*************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/createGenerateClassName/createGenerateClassName.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21530,9 +21620,9 @@ function createGenerateClassName() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/createGenerateClassName/index.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/createGenerateClassName/index.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/createGenerateClassName/index.js ***!
+  \*******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21546,9 +21636,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/createStyles/createStyles.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/createStyles/createStyles.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/createStyles/createStyles.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21562,9 +21652,9 @@ function createStyles(styles) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/createStyles/index.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/createStyles/index.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/createStyles/index.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21578,9 +21668,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/getStylesCreator/getStylesCreator.js":
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/getStylesCreator/getStylesCreator.js ***!
-  \***********************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/getStylesCreator/getStylesCreator.js ***!
+  \***********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21649,9 +21739,9 @@ function getStylesCreator(stylesOrCreator) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/getStylesCreator/index.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/getStylesCreator/index.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/getStylesCreator/index.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21665,9 +21755,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/getStylesCreator/noopTheme.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/getStylesCreator/noopTheme.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/getStylesCreator/noopTheme.js ***!
+  \****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21680,9 +21770,9 @@ var noopTheme = {};
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/getThemeProps/getThemeProps.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/getThemeProps/getThemeProps.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/getThemeProps/getThemeProps.js ***!
+  \*****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21717,9 +21807,9 @@ function getThemeProps(params) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/getThemeProps/index.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/getThemeProps/index.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/getThemeProps/index.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21733,9 +21823,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/index.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/index.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/index.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: createGenerateClassName, createStyles, getThemeProps, jssPreset, makeStyles, mergeClasses, ServerStyleSheets, styled, StylesProvider, ThemeProvider, useTheme, withStyles, withTheme, sheetsManager, StylesContext, withThemeCreator */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21836,9 +21926,9 @@ if ( true && typeof window !== 'undefined') {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/jssPreset/index.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/jssPreset/index.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/jssPreset/index.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21852,9 +21942,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/jssPreset/jssPreset.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/jssPreset/jssPreset.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/jssPreset/jssPreset.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21889,9 +21979,9 @@ function jssPreset() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/makeStyles/index.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/makeStyles/index.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/makeStyles/index.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21905,9 +21995,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/makeStyles/indexCounter.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/makeStyles/indexCounter.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/makeStyles/indexCounter.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: increment */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -21939,9 +22029,9 @@ function increment() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/makeStyles/makeStyles.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/makeStyles/makeStyles.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/makeStyles/makeStyles.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22216,9 +22306,9 @@ function makeStyles(stylesOrCreator) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/makeStyles/multiKeyStore.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/makeStyles/multiKeyStore.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/makeStyles/multiKeyStore.js ***!
+  \**************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22250,9 +22340,9 @@ var multiKeyStore = {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/mergeClasses/index.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/mergeClasses/index.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/mergeClasses/index.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22266,9 +22356,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/mergeClasses/mergeClasses.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/mergeClasses/mergeClasses.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/mergeClasses/mergeClasses.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22321,9 +22411,9 @@ function mergeClasses() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/styled/index.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/styled/index.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/styled/index.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22337,9 +22427,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/styled/styled.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/styled/styled.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/styled/styled.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22515,9 +22605,9 @@ function styled(Component) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/useTheme/ThemeContext.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/useTheme/ThemeContext.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/useTheme/ThemeContext.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22537,9 +22627,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/useTheme/index.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/useTheme/index.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/useTheme/index.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22553,9 +22643,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/useTheme/useTheme.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/useTheme/useTheme.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/useTheme/useTheme.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22574,9 +22664,9 @@ function useTheme() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/withStyles/index.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/withStyles/index.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/withStyles/index.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22590,9 +22680,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/withStyles/withStyles.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/withStyles/withStyles.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/withStyles/withStyles.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22738,9 +22828,9 @@ var withStyles = function withStyles(stylesOrCreator) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/withTheme/index.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/withTheme/index.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/withTheme/index.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default, withThemeCreator */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22757,9 +22847,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/styles/esm/withTheme/withTheme.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/styles/esm/withTheme/withTheme.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/styles/esm/withTheme/withTheme.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: withThemeCreator, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22843,9 +22933,9 @@ var withTheme = withThemeCreator();
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/borders.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/borders.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/borders.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: border, borderTop, borderRight, borderBottom, borderLeft, borderColor, borderRadius, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22910,9 +23000,9 @@ var borders = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(border, b
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/breakpoints.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/breakpoints.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/breakpoints.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: handleBreakpoints, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23008,9 +23098,9 @@ function breakpoints(styleFunction) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/compose.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/compose.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/compose.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23067,9 +23157,9 @@ function compose() {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/css.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/css.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/css.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23120,9 +23210,9 @@ function css(styleFunction) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/display.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/display.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/display.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: displayPrint, displayRaw, overflow, textOverflow, visibility, whiteSpace, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23169,9 +23259,9 @@ var whiteSpace = Object(_style__WEBPACK_IMPORTED_MODULE_0__["default"])({
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/flexbox.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/flexbox.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/flexbox.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: flexBasis, flexDirection, flexWrap, justifyContent, alignItems, alignContent, order, flex, flexGrow, flexShrink, alignSelf, justifyItems, justifySelf, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23239,9 +23329,9 @@ var flexbox = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(flexBasis
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/grid.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/grid.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/grid.js ***!
+  \******************************************************************************************************/
 /*! exports provided: gridGap, gridColumnGap, gridRowGap, gridColumn, gridRow, gridAutoFlow, gridAutoColumns, gridAutoRows, gridTemplateColumns, gridTemplateRows, gridTemplateAreas, gridArea, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23305,9 +23395,9 @@ var grid = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(gridGap, gri
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/index.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/index.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/index.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: borders, breakpoints, compose, css, display, flexbox, grid, palette, positions, shadows, sizing, spacing, style, typography, border, borderTop, borderRight, borderBottom, borderLeft, borderColor, borderRadius, flexBasis, flexDirection, flexWrap, justifyContent, alignItems, alignContent, order, flex, flexGrow, flexShrink, alignSelf, justifyItems, justifySelf, gridGap, gridColumnGap, gridRowGap, gridColumn, gridRow, gridAutoFlow, gridAutoColumns, gridAutoRows, gridTemplateColumns, gridTemplateRows, gridTemplateAreas, gridArea, color, bgcolor, position, zIndex, top, right, bottom, left, width, maxWidth, minWidth, height, maxHeight, minHeight, sizeWidth, sizeHeight, boxSizing, fontFamily, fontSize, fontStyle, fontWeight, letterSpacing, lineHeight, textAlign */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23497,9 +23587,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/memoize.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/memoize.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/memoize.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23520,9 +23610,9 @@ function memoize(fn) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/merge.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/merge.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/merge.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23547,9 +23637,9 @@ function merge(acc, item) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/palette.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/palette.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/palette.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: color, bgcolor, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23576,9 +23666,9 @@ var palette = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(color, bg
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/positions.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/positions.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/positions.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: position, zIndex, top, right, bottom, left, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23618,9 +23708,9 @@ var left = Object(_style__WEBPACK_IMPORTED_MODULE_0__["default"])({
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/responsivePropType.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/responsivePropType.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/responsivePropType.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23635,9 +23725,9 @@ var responsivePropType =  true ? prop_types__WEBPACK_IMPORTED_MODULE_0___default
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/shadows.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/shadows.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/shadows.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23654,9 +23744,9 @@ var boxShadow = Object(_style__WEBPACK_IMPORTED_MODULE_0__["default"])({
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/sizing.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/sizing.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/sizing.js ***!
+  \********************************************************************************************************/
 /*! exports provided: width, maxWidth, minWidth, height, maxHeight, minHeight, sizeWidth, sizeHeight, boxSizing, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23723,9 +23813,9 @@ var sizing = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(width, max
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/spacing.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/spacing.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/spacing.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23874,9 +23964,9 @@ spacing.filterProps = spacingKeys;
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/style.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/style.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/style.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23950,9 +24040,9 @@ function style(options) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/system/esm/typography.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/system/esm/typography.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/system/esm/typography.js ***!
+  \************************************************************************************************************/
 /*! exports provided: fontFamily, fontSize, fontStyle, fontWeight, letterSpacing, lineHeight, textAlign, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24000,9 +24090,9 @@ var typography = Object(_compose__WEBPACK_IMPORTED_MODULE_1__["default"])(fontFa
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/chainPropTypes.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/chainPropTypes.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/chainPropTypes.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24020,9 +24110,9 @@ function chainPropTypes(propType1, propType2) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/deepmerge.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/deepmerge.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/deepmerge.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: isObject, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24064,9 +24154,9 @@ function deepmerge(target, source) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/elementAcceptingRef.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/elementAcceptingRef.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/elementAcceptingRef.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24123,9 +24213,9 @@ elementAcceptingRef.isRequired = Object(_chainPropTypes__WEBPACK_IMPORTED_MODULE
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/elementTypeAcceptingRef.js":
-/*!************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/elementTypeAcceptingRef.js ***!
-  \************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/elementTypeAcceptingRef.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24179,9 +24269,9 @@ function elementTypeAcceptingRef(props, propName, componentName, location, propF
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/exactProp.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/exactProp.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/exactProp.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: specialProperty, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24219,9 +24309,9 @@ function exactProp(propTypes) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/getDisplayName.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/getDisplayName.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/getDisplayName.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: getFunctionName, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24296,9 +24386,9 @@ function getDisplayName(Component) {
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/index.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/index.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/index.js ***!
+  \******************************************************************************************************/
 /*! exports provided: chainPropTypes, deepmerge, elementAcceptingRef, elementTypeAcceptingRef, exactProp, getDisplayName, ponyfillGlobal, refType */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24345,9 +24435,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/ponyfillGlobal.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/ponyfillGlobal.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/ponyfillGlobal.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24360,9 +24450,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@material-ui/utils/esm/refType.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/@material-ui/utils/esm/refType.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/@material-ui/utils/esm/refType.js ***!
+  \********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24377,9 +24467,9 @@ var refType = prop_types__WEBPACK_IMPORTED_MODULE_0___default.a.oneOfType([prop_
 /***/ }),
 
 /***/ "../../node_modules/clsx/dist/clsx.m.js":
-/*!******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/clsx/dist/clsx.m.js ***!
-  \******************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/clsx/dist/clsx.m.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24427,9 +24517,9 @@ function toVal(mix) {
 /***/ }),
 
 /***/ "../../node_modules/color-convert/conversions.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-convert/conversions.js ***!
-  \***************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-convert/conversions.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25306,9 +25396,9 @@ convert.rgb.gray = function (rgb) {
 /***/ }),
 
 /***/ "../../node_modules/color-convert/index.js":
-/*!*********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-convert/index.js ***!
-  \*********************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-convert/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25395,9 +25485,9 @@ module.exports = convert;
 /***/ }),
 
 /***/ "../../node_modules/color-convert/route.js":
-/*!*********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-convert/route.js ***!
-  \*********************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-convert/route.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25503,9 +25593,9 @@ module.exports = function (fromModel) {
 /***/ }),
 
 /***/ "../../node_modules/color-name/index.js":
-/*!******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-name/index.js ***!
-  \******************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-name/index.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25667,9 +25757,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/color-string/index.js":
-/*!********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-string/index.js ***!
-  \********************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-string/index.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25912,9 +26002,9 @@ function hexDouble(num) {
 /***/ }),
 
 /***/ "../../node_modules/color-string/node_modules/color-name/index.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color-string/node_modules/color-name/index.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color-string/node_modules/color-name/index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26076,9 +26166,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/color/index.js":
-/*!*************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/color/index.js ***!
-  \*************************************************************************/
+/*!*************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/color/index.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26570,9 +26660,9 @@ module.exports = Color;
 /***/ }),
 
 /***/ "../../node_modules/convert-css-length/dist/index.esm.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/convert-css-length/dist/index.esm.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/convert-css-length/dist/index.esm.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -26585,9 +26675,9 @@ var e=function(e){return parseFloat(e)};/* harmony default export */ __webpack_e
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/is-array.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/array/is-array.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/array/is-array.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26598,9 +26688,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/get-iterator.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/get-iterator.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/get-iterator.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26612,9 +26702,9 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "../../
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/is-iterable.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/is-iterable.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/is-iterable.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26626,9 +26716,9 @@ module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/map.js":
-/*!************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/map.js ***!
-  \************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/map.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26645,9 +26735,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/assign.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/assign.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/assign.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26658,9 +26748,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/create.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/create.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/create.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26674,9 +26764,9 @@ module.exports = function create(P, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-properties.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/define-properties.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/define-properties.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26690,9 +26780,9 @@ module.exports = function defineProperties(T, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-property.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/define-property.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/define-property.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26706,9 +26796,9 @@ module.exports = function defineProperty(it, key, desc) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
-  \*******************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26722,9 +26812,9 @@ module.exports = function getOwnPropertyDescriptor(it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptors.js":
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/get-own-property-descriptors.js ***!
-  \********************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/get-own-property-descriptors.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26735,9 +26825,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-symbols.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26748,9 +26838,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-prototype-of.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26761,9 +26851,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/keys.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/keys.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/keys.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26774,9 +26864,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/set-prototype-of.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26787,9 +26877,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/promise.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/promise.js ***!
-  \****************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/promise.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26805,9 +26895,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/reflect/construct.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/reflect/construct.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/reflect/construct.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26818,9 +26908,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/index.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/symbol/index.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/symbol/index.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26834,9 +26924,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/iterator.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/symbol/iterator.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/symbol/iterator.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26848,9 +26938,9 @@ module.exports = __webpack_require__(/*! ../../modules/_wks-ext */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/weak-map.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/fn/weak-map.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/fn/weak-map.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26865,9 +26955,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_a-function.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_a-function.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_a-function.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26880,9 +26970,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26892,9 +26982,9 @@ module.exports = function () { /* empty */ };
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-instance.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_an-instance.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_an-instance.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26908,9 +26998,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-object.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_an-object.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_an-object.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26924,9 +27014,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-from-iterable.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_array-from-iterable.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_array-from-iterable.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26942,9 +27032,9 @@ module.exports = function (iter, ITERATOR) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-includes.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_array-includes.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_array-includes.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26976,9 +27066,9 @@ module.exports = function (IS_INCLUDES) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-methods.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_array-methods.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_array-methods.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27031,9 +27121,9 @@ module.exports = function (TYPE, $create) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-constructor.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_array-species-constructor.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_array-species-constructor.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27058,9 +27148,9 @@ module.exports = function (original) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-create.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_array-species-create.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_array-species-create.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27075,9 +27165,9 @@ module.exports = function (original, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_bind.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_bind.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_bind.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27112,9 +27202,9 @@ module.exports = Function.bind || function bind(that /* , ...args */) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_classof.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_classof.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_classof.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27146,9 +27236,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_cof.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_cof.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_cof.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27162,9 +27252,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-strong.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_collection-strong.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_collection-strong.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27318,9 +27408,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-to-json.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_collection-to-json.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_collection-to-json.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27338,9 +27428,9 @@ module.exports = function (NAME) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-weak.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_collection-weak.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_collection-weak.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27435,9 +27525,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_collection.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_collection.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27506,9 +27596,9 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_core.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_core.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_core.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27519,9 +27609,9 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_create-property.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_create-property.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_create-property.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27539,9 +27629,9 @@ module.exports = function (object, index, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ctx.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_ctx.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_ctx.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27570,9 +27660,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_defined.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_defined.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_defined.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27586,9 +27676,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_descriptors.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_descriptors.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_descriptors.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27601,9 +27691,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_dom-create.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_dom-create.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_dom-create.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27619,9 +27709,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27634,9 +27724,9 @@ module.exports = (
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-keys.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_enum-keys.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_enum-keys.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27660,9 +27750,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_export.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_export.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_export.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27733,9 +27823,9 @@ module.exports = $export;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_fails.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_fails.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_fails.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27751,9 +27841,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_for-of.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_for-of.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_for-of.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27787,9 +27877,9 @@ exports.RETURN = RETURN;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_global.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_global.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_global.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27804,9 +27894,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_has.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_has.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_has.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27819,9 +27909,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_hide.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_hide.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_hide.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27838,9 +27928,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_html.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_html.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_html.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27851,9 +27941,9 @@ module.exports = document && document.documentElement;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27865,9 +27955,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_invoke.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_invoke.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_invoke.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27892,9 +27982,9 @@ module.exports = function (fn, args, that) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iobject.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iobject.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iobject.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27909,9 +27999,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_is-array-iter.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27928,9 +28018,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_is-array.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_is-array.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27944,9 +28034,9 @@ module.exports = Array.isArray || function isArray(arg) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-object.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_is-object.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_is-object.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27958,9 +28048,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-call.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iter-call.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iter-call.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27981,9 +28071,9 @@ module.exports = function (iterator, fn, value, entries) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-create.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iter-create.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iter-create.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28006,9 +28096,9 @@ module.exports = function (Constructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-define.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iter-define.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iter-define.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28087,9 +28177,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iter-detect.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iter-detect.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28120,9 +28210,9 @@ module.exports = function (exec, skipClosing) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-step.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iter-step.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iter-step.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28134,9 +28224,9 @@ module.exports = function (done, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iterators.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_iterators.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_iterators.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28146,9 +28236,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_library.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_library.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_library.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28158,9 +28248,9 @@ module.exports = true;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_meta.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_meta.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_meta.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28222,9 +28312,9 @@ var meta = module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_microtask.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_microtask.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_microtask.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28302,9 +28392,9 @@ module.exports = function () {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_new-promise-capability.js":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_new-promise-capability.js ***!
-  \*************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_new-promise-capability.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28332,9 +28422,9 @@ module.exports.f = function (C) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-assign.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-assign.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-assign.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28382,9 +28472,9 @@ module.exports = !$assign || __webpack_require__(/*! ./_fails */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-create.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-create.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-create.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28434,9 +28524,9 @@ module.exports = Object.create || function create(O, Properties) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dp.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-dp.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-dp.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28461,9 +28551,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dps.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-dps.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-dps.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28485,9 +28575,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopd.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-gopd.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-gopd.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28512,9 +28602,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn-ext.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28542,9 +28632,9 @@ module.exports.f = function getOwnPropertyNames(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-gopn.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-gopn.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28560,9 +28650,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gops.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-gops.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-gops.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28572,9 +28662,9 @@ exports.f = Object.getOwnPropertySymbols;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-gpo.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-gpo.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28596,9 +28686,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-keys-internal.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28624,9 +28714,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-keys.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-keys.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28642,9 +28732,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-pie.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-pie.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-pie.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28654,9 +28744,9 @@ exports.f = {}.propertyIsEnumerable;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-sap.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_object-sap.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_object-sap.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28675,9 +28765,9 @@ module.exports = function (KEY, exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_own-keys.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_own-keys.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_own-keys.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28696,9 +28786,9 @@ module.exports = Reflect && Reflect.ownKeys || function ownKeys(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_perform.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_perform.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_perform.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28714,9 +28804,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_promise-resolve.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_promise-resolve.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_promise-resolve.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28737,9 +28827,9 @@ module.exports = function (C, x) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_property-desc.js":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_property-desc.js ***!
-  \****************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_property-desc.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28756,9 +28846,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_redefine-all.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_redefine-all.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28774,9 +28864,9 @@ module.exports = function (target, src, safe) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_redefine.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_redefine.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28786,9 +28876,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-from.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_set-collection-from.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_set-collection-from.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28826,9 +28916,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-of.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_set-collection-of.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_set-collection-of.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28850,9 +28940,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-proto.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_set-proto.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_set-proto.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28886,9 +28976,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-species.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_set-species.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_set-species.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28912,9 +29002,9 @@ module.exports = function (KEY) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28930,9 +29020,9 @@ module.exports = function (it, tag, stat) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared-key.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_shared-key.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_shared-key.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28946,9 +29036,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_shared.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_shared.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28969,9 +29059,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_species-constructor.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_species-constructor.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_species-constructor.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28989,9 +29079,9 @@ module.exports = function (O, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-at.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_string-at.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_string-at.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29017,9 +29107,9 @@ module.exports = function (TO_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_task.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_task.js ***!
-  \*******************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_task.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29112,9 +29202,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-absolute-index.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29130,9 +29220,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-integer.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-integer.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-integer.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29147,9 +29237,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-iobject.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-iobject.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29164,9 +29254,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-length.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-length.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-length.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29181,9 +29271,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-object.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-object.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-object.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29197,9 +29287,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_to-primitive.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_to-primitive.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29220,9 +29310,9 @@ module.exports = function (it, S) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_uid.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_uid.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_uid.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29236,9 +29326,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_user-agent.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_user-agent.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_user-agent.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29251,9 +29341,9 @@ module.exports = navigator && navigator.userAgent || '';
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_validate-collection.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_validate-collection.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_validate-collection.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29267,9 +29357,9 @@ module.exports = function (it, TYPE) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-define.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_wks-define.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_wks-define.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29287,9 +29377,9 @@ module.exports = function (name) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-ext.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_wks-ext.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_wks-ext.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29299,9 +29389,9 @@ exports.f = __webpack_require__(/*! ./_wks */ "../../node_modules/core-js/librar
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/_wks.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/_wks.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29321,9 +29411,9 @@ $exports.store = store;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29340,9 +29430,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/core.get-iterator.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/core.get-iterator.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29358,9 +29448,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.is-iterable.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/core.is-iterable.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29379,9 +29469,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.is-array.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.array.is-array.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.array.is-array.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29394,9 +29484,9 @@ $export($export.S, 'Array', { isArray: __webpack_require__(/*! ./_is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.array.iterator.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29440,9 +29530,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.map.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.map.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.map.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29471,9 +29561,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.assign.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.assign.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.assign.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29486,9 +29576,9 @@ $export($export.S + $export.F, 'Object', { assign: __webpack_require__(/*! ./_ob
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.create.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.create.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29500,9 +29590,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-properties.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.define-properties.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.define-properties.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29514,9 +29604,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-property.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.define-property.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.define-property.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29528,9 +29618,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
-  \****************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29548,9 +29638,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29568,9 +29658,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.keys.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.keys.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.keys.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29588,9 +29678,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.set-prototype-of.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29602,9 +29692,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.object.to-string.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.object.to-string.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29613,9 +29703,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.promise.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.promise.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.promise.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29911,9 +30001,9 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.reflect.construct.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29969,9 +30059,9 @@ $export($export.S + $export.F * (NEW_TARGET_BUG || ARGS_BUG), 'Reflect', {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.string.iterator.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29998,9 +30088,9 @@ __webpack_require__(/*! ./_iter-define */ "../../node_modules/core-js/library/mo
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.symbol.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.symbol.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.symbol.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30256,9 +30346,9 @@ setToStringTag(global.JSON, 'JSON', true);
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.weak-map.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es6.weak-map.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es6.weak-map.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30328,9 +30418,9 @@ if (NATIVE_WEAK_MAP && IS_IE11) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.from.js":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.map.from.js ***!
-  \**************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.map.from.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30341,9 +30431,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.of.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.map.of.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.map.of.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30354,9 +30444,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.to-json.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.map.to-json.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.map.to-json.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30369,9 +30459,9 @@ $export($export.P + $export.R, 'Map', { toJSON: __webpack_require__(/*! ./_colle
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js":
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js ***!
-  \*****************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30402,9 +30492,9 @@ $export($export.S, 'Object', {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.finally.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.promise.finally.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.promise.finally.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30434,9 +30524,9 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.try.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.promise.try.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.promise.try.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30458,9 +30548,9 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30470,9 +30560,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.observable.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30482,9 +30572,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.weak-map.from.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.weak-map.from.js ***!
-  \*******************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.weak-map.from.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30495,9 +30585,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.weak-map.of.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/es7.weak-map.of.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/es7.weak-map.of.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30508,9 +30598,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/core-js/library/modules/web.dom.iterable.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30538,9 +30628,9 @@ for (var i = 0; i < DOMIterables.length; i++) {
 /***/ }),
 
 /***/ "../../node_modules/css-vendor/dist/css-vendor.esm.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/css-vendor/dist/css-vendor.esm.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/css-vendor/dist/css-vendor.esm.js ***!
+  \********************************************************************************************************/
 /*! exports provided: prefix, supportedKeyframes, supportedProperty, supportedValue */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31130,9 +31220,9 @@ function supportedValue(property, value) {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/implementation.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/function-bind/implementation.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/function-bind/implementation.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31194,9 +31284,9 @@ module.exports = function bind(that) {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/index.js":
-/*!*********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/function-bind/index.js ***!
-  \*********************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/function-bind/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31211,9 +31301,9 @@ module.exports = Function.prototype.bind || implementation;
 /***/ }),
 
 /***/ "../../node_modules/has/src/index.js":
-/*!***************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/has/src/index.js ***!
-  \***************************************************************************/
+/*!***************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/has/src/index.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31228,9 +31318,9 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 /***/ }),
 
 /***/ "../../node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
-  \**********************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31343,9 +31433,9 @@ module.exports = hoistNonReactStatics;
 /***/ }),
 
 /***/ "../../node_modules/hyphenate-style-name/index.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/hyphenate-style-name/index.js ***!
-  \****************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/hyphenate-style-name/index.js ***!
+  \****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31375,9 +31465,9 @@ function hyphenateStyleName(name) {
 /***/ }),
 
 /***/ "../../node_modules/is-in-browser/dist/module.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/is-in-browser/dist/module.js ***!
-  \***************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/is-in-browser/dist/module.js ***!
+  \***************************************************************************************************/
 /*! exports provided: isBrowser, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31394,9 +31484,9 @@ var isBrowser = (typeof window === "undefined" ? "undefined" : _typeof(window)) 
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-camel-case/dist/jss-plugin-camel-case.esm.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-camel-case/dist/jss-plugin-camel-case.esm.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-camel-case/dist/jss-plugin-camel-case.esm.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31472,9 +31562,9 @@ function camelCase() {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-default-unit/dist/jss-plugin-default-unit.esm.js":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-default-unit/dist/jss-plugin-default-unit.esm.js ***!
-  \**********************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-default-unit/dist/jss-plugin-default-unit.esm.js ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31701,9 +31791,9 @@ function defaultUnit(options) {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-global/dist/jss-plugin-global.esm.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-global/dist/jss-plugin-global.esm.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-global/dist/jss-plugin-global.esm.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31901,9 +31991,9 @@ function jssGlobal() {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-nested/dist/jss-plugin-nested.esm.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-nested/dist/jss-plugin-nested.esm.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-nested/dist/jss-plugin-nested.esm.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32027,9 +32117,9 @@ function jssNested() {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-props-sort/dist/jss-plugin-props-sort.esm.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-props-sort/dist/jss-plugin-props-sort.esm.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-props-sort/dist/jss-plugin-props-sort.esm.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32068,9 +32158,9 @@ function jssPropsSort() {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-rule-value-function/dist/jss-plugin-rule-value-function.esm.js":
-/*!************************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-rule-value-function/dist/jss-plugin-rule-value-function.esm.js ***!
-  \************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-rule-value-function/dist/jss-plugin-rule-value-function.esm.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32137,9 +32227,9 @@ function functionPlugin() {
 /***/ }),
 
 /***/ "../../node_modules/jss-plugin-vendor-prefixer/dist/jss-plugin-vendor-prefixer.esm.js":
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss-plugin-vendor-prefixer/dist/jss-plugin-vendor-prefixer.esm.js ***!
-  \****************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss-plugin-vendor-prefixer/dist/jss-plugin-vendor-prefixer.esm.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32211,9 +32301,9 @@ function jssVendorPrefixer() {
 /***/ }),
 
 /***/ "../../node_modules/jss/dist/jss.esm.js":
-/*!******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/jss/dist/jss.esm.js ***!
-  \******************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/jss/dist/jss.esm.js ***!
+  \******************************************************************************************/
 /*! exports provided: default, hasCSSTOMSupport, create, getDynamicStyles, toCssValue, createRule, SheetsRegistry, SheetsManager, RuleList, sheets, createGenerateId */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -34472,9 +34562,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/next/dist/build/polyfills/object.assign/index.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/build/polyfills/object.assign/index.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/build/polyfills/object.assign/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34483,10 +34573,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDocuments%5Chello-render%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx!./":
-/*!**********************************************************************************************************************************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDocuments%5Chello-render%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx ***!
-  \**********************************************************************************************************************************************************************************************************************************************/
+/***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDesktop%5Cprivate-label-sites-master%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx!./":
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDesktop%5Cprivate-label-sites-master%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34507,9 +34597,9 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!***********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/link.js ***!
-  \***********************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/link.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34843,9 +34933,9 @@ exports["default"] = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/router.js":
-/*!*************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/router.js ***!
-  \*************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/router.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35034,9 +35124,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/with-router.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/with-router.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/with-router.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35076,9 +35166,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/mitt.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/mitt.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/mitt.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35137,9 +35227,9 @@ exports["default"] = mitt;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router-context.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router-context.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router-context.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35169,9 +35259,9 @@ exports.RouterContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/router.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/router.js ***!
-  \*****************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/router.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35919,9 +36009,9 @@ Router.events = mitt_1["default"]();
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35946,9 +36036,9 @@ exports.isDynamicRoute = isDynamicRoute;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-matcher.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
-  \******************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35996,9 +36086,9 @@ exports.getRouteMatcher = getRouteMatcher;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-regex.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36037,9 +36127,9 @@ exports.getRouteRegex = getRouteRegex;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/utils.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/next-server/lib/utils.js ***!
-  \*********************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/next-server/lib/utils.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36221,9 +36311,9 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 /***/ }),
 
 /***/ "../../node_modules/next/link.js":
-/*!***********************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/link.js ***!
-  \***********************************************************************/
+/*!***********************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/link.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36233,9 +36323,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/cjs/react-is.development.js":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
-  \*****************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36472,9 +36562,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/node_modules/react-is/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/node_modules/react-is/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36553,9 +36643,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ "../../node_modules/node-libs-browser/node_modules/punycode/punycode.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/node-libs-browser/node_modules/punycode/punycode.js ***!
-  \**************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/node-libs-browser/node_modules/punycode/punycode.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37084,9 +37174,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ "../../node_modules/process/browser.js":
-/*!*****************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/process/browser.js ***!
-  \*****************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/process/browser.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -37279,9 +37369,9 @@ process.umask = function() { return 0; };
 /***/ }),
 
 /***/ "../../node_modules/prop-types-exact/build/helpers/isPlainObject.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -37301,9 +37391,9 @@ module.exports = exports['default'];
 /***/ }),
 
 /***/ "../../node_modules/prop-types-exact/build/index.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/prop-types-exact/build/index.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/prop-types-exact/build/index.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37379,9 +37469,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/prop-types/factoryWithTypeCheckers.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37982,9 +38072,9 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /***/ }),
 
 /***/ "../../node_modules/prop-types/index.js":
-/*!******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/prop-types/index.js ***!
-  \******************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/prop-types/index.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38019,9 +38109,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/decode.js":
-/*!************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/querystring-es3/decode.js ***!
-  \************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/querystring-es3/decode.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38115,9 +38205,9 @@ var isArray = Array.isArray || function (xs) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/encode.js":
-/*!************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/querystring-es3/encode.js ***!
-  \************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/querystring-es3/encode.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38212,9 +38302,9 @@ var objectKeys = Object.keys || function (obj) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/index.js":
-/*!***********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/querystring-es3/index.js ***!
-  \***********************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/querystring-es3/index.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38239,9 +38329,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/react-fast-compare/index.js":
-/*!**************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-fast-compare/index.js ***!
-  \**************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-fast-compare/index.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38345,9 +38435,9 @@ module.exports = function exportedEqual(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/react-helmet/lib/Helmet.js":
-/*!*************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-helmet/lib/Helmet.js ***!
-  \*************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-helmet/lib/Helmet.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -38647,9 +38737,9 @@ exports.default = HelmetExport;
 /***/ }),
 
 /***/ "../../node_modules/react-helmet/lib/HelmetConstants.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-helmet/lib/HelmetConstants.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-helmet/lib/HelmetConstants.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -38721,9 +38811,9 @@ var HELMET_ATTRIBUTE = exports.HELMET_ATTRIBUTE = "data-react-helmet";
 /***/ }),
 
 /***/ "../../node_modules/react-helmet/lib/HelmetUtils.js":
-/*!******************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-helmet/lib/HelmetUtils.js ***!
-  \******************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-helmet/lib/HelmetUtils.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39268,9 +39358,9 @@ exports.warn = warn;
 /***/ }),
 
 /***/ "../../node_modules/react-is/cjs/react-is.development.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-is/cjs/react-is.development.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-is/cjs/react-is.development.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39516,9 +39606,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/react-is/index.js":
-/*!****************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-is/index.js ***!
-  \****************************************************************************/
+/*!****************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-is/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39533,9 +39623,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/react-side-effect/lib/index.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-side-effect/lib/index.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-side-effect/lib/index.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39675,9 +39765,9 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/CSSTransition.js":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/CSSTransition.js ***!
-  \******************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/CSSTransition.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40054,9 +40144,9 @@ CSSTransition.propTypes =  true ? Object(_babel_runtime_helpers_esm_extends__WEB
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/ReplaceTransition.js":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/ReplaceTransition.js ***!
-  \**********************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/ReplaceTransition.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40209,9 +40299,9 @@ ReplaceTransition.propTypes =  true ? {
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/SwitchTransition.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/SwitchTransition.js ***!
-  \*********************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/SwitchTransition.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: modes, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40462,9 +40552,9 @@ SwitchTransition.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/Transition.js":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/Transition.js ***!
-  \***************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/Transition.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: UNMOUNTED, EXITED, ENTERING, ENTERED, EXITING, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41075,9 +41165,9 @@ Transition.EXITING = 4;
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/TransitionGroup.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/TransitionGroup.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/TransitionGroup.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41288,9 +41378,9 @@ TransitionGroup.defaultProps = defaultProps;
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/TransitionGroupContext.js":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/TransitionGroupContext.js ***!
-  \***************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/TransitionGroupContext.js ***!
+  \***************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41304,9 +41394,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/config.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/config.js ***!
-  \***********************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/config.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41319,9 +41409,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/index.js":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/index.js ***!
-  \**********************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/index.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: CSSTransition, ReplaceTransition, SwitchTransition, TransitionGroup, Transition, config */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41355,9 +41445,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/utils/ChildMapping.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/utils/ChildMapping.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/utils/ChildMapping.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: getChildMapping, mergeChildMappings, getInitialChildMapping, getNextChildMapping */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41513,9 +41603,9 @@ function getNextChildMapping(nextProps, prevChildMapping, onExited) {
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/esm/utils/PropTypes.js":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/esm/utils/PropTypes.js ***!
-  \********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/esm/utils/PropTypes.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: timeoutsShape, classNamesShape */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41547,9 +41637,9 @@ var classNamesShape =  true ? prop_types__WEBPACK_IMPORTED_MODULE_0___default.a.
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/node_modules/dom-helpers/esm/addClass.js":
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/node_modules/dom-helpers/esm/addClass.js ***!
-  \**************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/node_modules/dom-helpers/esm/addClass.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41565,9 +41655,9 @@ function addClass(element, className) {
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/node_modules/dom-helpers/esm/hasClass.js":
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/node_modules/dom-helpers/esm/hasClass.js ***!
-  \**************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/node_modules/dom-helpers/esm/hasClass.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41582,9 +41672,9 @@ function hasClass(element, className) {
 /***/ }),
 
 /***/ "../../node_modules/react-transition-group/node_modules/dom-helpers/esm/removeClass.js":
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/react-transition-group/node_modules/dom-helpers/esm/removeClass.js ***!
-  \*****************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/react-transition-group/node_modules/dom-helpers/esm/removeClass.js ***!
+  \*****************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41620,9 +41710,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/regenerator-runtime/runtime.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/regenerator-runtime/runtime.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42357,9 +42447,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/shallowequal/index.js":
-/*!********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/shallowequal/index.js ***!
-  \********************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/shallowequal/index.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -42414,9 +42504,9 @@ module.exports = function shallowEqual(objA, objB, compare, compareContext) {
 /***/ }),
 
 /***/ "../../node_modules/simple-swizzle/index.js":
-/*!**********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/simple-swizzle/index.js ***!
-  \**********************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/simple-swizzle/index.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42455,9 +42545,9 @@ swizzle.wrap = function (fn) {
 /***/ }),
 
 /***/ "../../node_modules/simple-swizzle/node_modules/is-arrayish/index.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/simple-swizzle/node_modules/is-arrayish/index.js ***!
-  \***********************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/simple-swizzle/node_modules/is-arrayish/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -42475,9 +42565,9 @@ module.exports = function isArrayish(obj) {
 /***/ }),
 
 /***/ "../../node_modules/string-hash/index.js":
-/*!*******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/string-hash/index.js ***!
-  \*******************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/string-hash/index.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42504,9 +42594,9 @@ module.exports = hash;
 /***/ }),
 
 /***/ "../../node_modules/styled-jsx/dist/lib/stylesheet.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/styled-jsx/dist/lib/stylesheet.js ***!
-  \********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/styled-jsx/dist/lib/stylesheet.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42804,9 +42894,9 @@ function invariant(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/styled-jsx/dist/style.js":
-/*!***********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/styled-jsx/dist/style.js ***!
-  \***********************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/styled-jsx/dist/style.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42891,9 +42981,9 @@ function flush() {
 /***/ }),
 
 /***/ "../../node_modules/styled-jsx/dist/stylesheet-registry.js":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/styled-jsx/dist/stylesheet-registry.js ***!
-  \*************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/styled-jsx/dist/stylesheet-registry.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -43156,9 +43246,9 @@ function invariant(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/styled-jsx/style.js":
-/*!******************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/styled-jsx/style.js ***!
-  \******************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/styled-jsx/style.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -43168,9 +43258,9 @@ module.exports = __webpack_require__(/*! ./dist/style */ "../../node_modules/sty
 /***/ }),
 
 /***/ "../../node_modules/tiny-warning/dist/tiny-warning.esm.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/tiny-warning/dist/tiny-warning.esm.js ***!
-  \************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/tiny-warning/dist/tiny-warning.esm.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -43201,9 +43291,9 @@ function warning(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/url/url.js":
-/*!*********************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/url/url.js ***!
-  \*********************************************************************/
+/*!*********************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/url/url.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -43945,9 +44035,9 @@ Url.prototype.parseHost = function() {
 /***/ }),
 
 /***/ "../../node_modules/url/util.js":
-/*!**********************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/url/util.js ***!
-  \**********************************************************************/
+/*!**********************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/url/util.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -43972,6 +44062,41 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./src/Layout.jsx":
+/*!************************!*\
+  !*** ./src/Layout.jsx ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./theme */ "./src/theme.jsx");
+/* harmony import */ var _erig_common_components_BaseLayout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @erig/common/components/BaseLayout */ "../../node_modules/@erig/common/components/BaseLayout.jsx");
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\packages\\site-a\\src\\Layout.jsx";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+
+var Layout = function Layout(_ref) {
+  var children = _ref.children;
+  return __jsx(_erig_common_components_BaseLayout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    theme: _theme__WEBPACK_IMPORTED_MODULE_1__["default"],
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, children);
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Layout);
+
+/***/ }),
+
 /***/ "./src/pages/index.jsx":
 /*!*****************************!*\
   !*** ./src/pages/index.jsx ***!
@@ -43992,7 +44117,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @erig/common/components/CategoryPicker */ "../../node_modules/@erig/common/components/CategoryPicker.jsx");
 /* harmony import */ var _erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @erig/common/components/ColorPicker */ "../../node_modules/@erig/common/components/ColorPicker.jsx");
 /* harmony import */ var _erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @erig/common/components/Expander */ "../../node_modules/@erig/common/components/Expander.jsx");
-/* harmony import */ var _erig_common_components_Layout__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @erig/common/components/Layout */ "../../node_modules/@erig/common/components/Layout.jsx");
+/* harmony import */ var _Layout__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../Layout */ "./src/Layout.jsx");
 /* harmony import */ var _erig_common_components_MobileSelector__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @erig/common/components/MobileSelector */ "../../node_modules/@erig/common/components/MobileSelector.jsx");
 /* harmony import */ var _erig_common_components_Pagination__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @erig/common/components/Pagination */ "../../node_modules/@erig/common/components/Pagination.jsx");
 /* harmony import */ var _erig_common_components_PricePicker__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @erig/common/components/PricePicker */ "../../node_modules/@erig/common/components/PricePicker.jsx");
@@ -44002,10 +44127,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! @erig/common/extensions/Typography */ "../../node_modules/@erig/common/extensions/Typography.jsx");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_19___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_19__);
-/* harmony import */ var _styles_global__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../styles.global */ "./src/styles.global.js");
-/* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ../theme */ "./src/theme/index.jsx");
 
-var _jsxFileName = "C:\\Users\\holly\\Documents\\hello-render\\packages\\site-a\\src\\pages\\index.jsx";
+var _jsxFileName = "C:\\Users\\holly\\Desktop\\private-label-sites-master\\packages\\site-a\\src\\pages\\index.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_19___default.a.createElement;
 
 
@@ -44027,15 +44150,11 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_19___default.a.createElement;
 
 
 
-
-
 var Index = function Index() {
-  return __jsx(_erig_common_components_Layout__WEBPACK_IMPORTED_MODULE_11__["default"], {
-    globalStyles: _styles_global__WEBPACK_IMPORTED_MODULE_20__["default"],
-    theme: _theme__WEBPACK_IMPORTED_MODULE_21__["default"],
+  return __jsx(_Layout__WEBPACK_IMPORTED_MODULE_11__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 22
     },
     __self: this
   }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
@@ -44051,7 +44170,7 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 23
     },
     __self: this
   }, __jsx(_erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_18__["default"], {
@@ -44061,13 +44180,13 @@ var Index = function Index() {
     bottomSpace: "small",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 35
     },
     __self: this
   }, "MEN\u2019S LIFESTYLE SHOE"), __jsx(_erig_common_extensions_Typography__WEBPACK_IMPORTED_MODULE_18__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 38
     },
     __self: this
   }, "TOTAL 319 ITEMS")), __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
@@ -44080,14 +44199,14 @@ var Index = function Index() {
     zIndex: 1,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 40
     },
     __self: this
   }, __jsx(_material_ui_core_Container__WEBPACK_IMPORTED_MODULE_2__["default"], {
     fixed: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 49
     },
     __self: this
   }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
@@ -44097,7 +44216,7 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 50
     },
     __self: this
   }, __jsx(_material_ui_core_Paper__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -44106,14 +44225,14 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 56
     },
     __self: this
   }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
     container: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 57
     },
     __self: this
   }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -44123,7 +44242,7 @@ var Index = function Index() {
     md: 5,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 58
     },
     __self: this
   }, __jsx(_erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_15__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, _erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_15__["default"].test1, {
@@ -44133,7 +44252,7 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 59
     },
     __self: this
   }))), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -44143,7 +44262,7 @@ var Index = function Index() {
     md: 7,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 61
     },
     __self: this
   }, __jsx(_erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_15__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, _erig_common_components_ProductAds__WEBPACK_IMPORTED_MODULE_15__["default"].test2, {
@@ -44153,14 +44272,14 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 62
     },
     __self: this
   })))), __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_5__["default"], {
     only: "xs",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 65
     },
     __self: this
   }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
@@ -44168,41 +44287,41 @@ var Index = function Index() {
     pb: 3,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 66
     },
     __self: this
   })), __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_5__["default"], {
     smUp: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 68
     },
     __self: this
   }, __jsx(_erig_common_components_MobileSelector__WEBPACK_IMPORTED_MODULE_12__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 69
     },
     __self: this
   })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73
+      lineNumber: 71
     },
     __self: this
   }), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
     container: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 72
     },
     __self: this
   }, __jsx(_material_ui_core_Hidden__WEBPACK_IMPORTED_MODULE_5__["default"], {
     only: "xs",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 75
+      lineNumber: 73
     },
     __self: this
   }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -44212,35 +44331,35 @@ var Index = function Index() {
     md: 3,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 76
+      lineNumber: 74
     },
     __self: this
   }, __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__["default"], {
     label: "CATEGORY",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77
+      lineNumber: 75
     },
     __self: this
   }, __jsx(_erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_8__["default"], {
     categories: _erig_common_components_CategoryPicker__WEBPACK_IMPORTED_MODULE_8__["default"].data,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
+      lineNumber: 76
     },
     __self: this
   })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80
+      lineNumber: 78
     },
     __self: this
   }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__["default"], {
     label: "PRICE",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 79
     },
     __self: this
   }, __jsx(_erig_common_components_PricePicker__WEBPACK_IMPORTED_MODULE_14__["default"], {
@@ -44248,91 +44367,91 @@ var Index = function Index() {
     max: 400,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 82
+      lineNumber: 80
     },
     __self: this
   })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84
+      lineNumber: 82
     },
     __self: this
   }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__["default"], {
     label: "BRAND",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 85
+      lineNumber: 83
     },
     __self: this
   }, __jsx(_erig_common_components_BrandPicker__WEBPACK_IMPORTED_MODULE_7__["default"], {
     brands: _erig_common_components_BrandPicker__WEBPACK_IMPORTED_MODULE_7__["default"].data,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86
+      lineNumber: 84
     },
     __self: this
   })), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 88
+      lineNumber: 86
     },
     __self: this
   }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__["default"], {
     label: "COLOR",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 89
+      lineNumber: 87
     },
     __self: this
   }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
     p: 1,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 90
+      lineNumber: 88
     },
     __self: this
   }, __jsx(_erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_9__["default"], {
     colors: _erig_common_components_ColorPicker__WEBPACK_IMPORTED_MODULE_9__["default"].data,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91
+      lineNumber: 89
     },
     __self: this
   }))), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94
+      lineNumber: 92
     },
     __self: this
   }), __jsx(_erig_common_components_Expander__WEBPACK_IMPORTED_MODULE_10__["default"], {
     label: "SIZE",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95
+      lineNumber: 93
     },
     __self: this
   }, __jsx(_material_ui_core_Box__WEBPACK_IMPORTED_MODULE_1__["default"], {
     p: 1,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96
+      lineNumber: 94
     },
     __self: this
   }, __jsx(_erig_common_components_SizePicker__WEBPACK_IMPORTED_MODULE_17__["default"], {
     sizes: _erig_common_components_SizePicker__WEBPACK_IMPORTED_MODULE_17__["default"].data,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 97
+      lineNumber: 95
     },
     __self: this
   }))), __jsx(_material_ui_core_Divider__WEBPACK_IMPORTED_MODULE_3__["default"], {
     light: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100
+      lineNumber: 98
     },
     __self: this
   }))), __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -44342,14 +44461,14 @@ var Index = function Index() {
     md: 9,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103
+      lineNumber: 101
     },
     __self: this
   }, __jsx(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
     container: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104
+      lineNumber: 102
     },
     __self: this
   }, _erig_common_components_ProductCard__WEBPACK_IMPORTED_MODULE_16__["default"].data.map(function (data) {
@@ -44361,14 +44480,14 @@ var Index = function Index() {
       md: 4,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 106
+        lineNumber: 104
       },
       __self: this
     }, __jsx(_erig_common_components_ProductCard__WEBPACK_IMPORTED_MODULE_16__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, data, {
       bordered: true,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 107
+        lineNumber: 105
       },
       __self: this
     })));
@@ -44380,7 +44499,7 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111
+      lineNumber: 109
     },
     __self: this
   }))))))));
@@ -44392,80 +44511,18 @@ Index.defaultProps = {};
 
 /***/ }),
 
-/***/ "./src/styles.global.js":
-/*!******************************!*\
-  !*** ./src/styles.global.js ***!
-  \******************************/
+/***/ "./src/theme.jsx":
+/*!***********************!*\
+  !*** ./src/theme.jsx ***!
+  \***********************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-// styles/global.js
-var _defaultExport = new String("body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\", \"Droid Sans\",\"Helvetica Neue\",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}code{font-family:source-code-pro,Menlo,Monaco,Consolas,\"Courier New\",monospace;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaG9sbHlcXERvY3VtZW50c1xcaGVsbG8tcmVuZGVyXFxwYWNrYWdlc1xcc2l0ZS1hXFxzcmNcXHN0eWxlcy5nbG9iYWwuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBR3lCLEFBR2MsQUFTc0UsU0FSckUsVUFFa0MsdURBTzlDLDhGQU5xQyxtQ0FDRCxrQ0FDcEMiLCJmaWxlIjoiQzpcXFVzZXJzXFxob2xseVxcRG9jdW1lbnRzXFxoZWxsby1yZW5kZXJcXHBhY2thZ2VzXFxzaXRlLWFcXHNyY1xcc3R5bGVzLmdsb2JhbC5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIHN0eWxlcy9nbG9iYWwuanNcbmltcG9ydCBjc3MgZnJvbSBcInN0eWxlZC1qc3gvY3NzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNzcy5nbG9iYWxgXG4gIGJvZHkge1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xuICAgIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgXCJSb2JvdG9cIiwgXCJPeHlnZW5cIiwgXCJVYnVudHVcIiwgXCJDYW50YXJlbGxcIiwgXCJGaXJhIFNhbnNcIixcbiAgICAgIFwiRHJvaWQgU2Fuc1wiLCBcIkhlbHZldGljYSBOZXVlXCIsIHNhbnMtc2VyaWY7XG4gICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbiAgfVxuXG4gIGNvZGUge1xuICAgIGZvbnQtZmFtaWx5OiBzb3VyY2UtY29kZS1wcm8sIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCBcIkNvdXJpZXIgTmV3XCIsIG1vbm9zcGFjZTtcbiAgfVxuYDtcbiJdfQ== */\n/*@ sourceURL=C:\\\\Users\\\\holly\\\\Documents\\\\hello-render\\\\packages\\\\site-a\\\\src\\\\styles.global.js */");
+/* harmony import */ var _erig_common_base_theme__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @erig/common/base-theme */ "../../node_modules/@erig/common/base-theme/index.tsx");
 
-_defaultExport.__hash = "4022544970";
-/* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
-
-/***/ }),
-
-/***/ "./src/theme/components sync recursive .js$":
-/*!****************************************!*\
-  !*** ./src/theme/components sync .js$ ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	var e = new Error("Cannot find module '" + req + "'");
-	e.code = 'MODULE_NOT_FOUND';
-	throw e;
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = "./src/theme/components sync recursive .js$";
-
-/***/ }),
-
-/***/ "./src/theme/index.jsx":
-/*!*****************************!*\
-  !*** ./src/theme/index.jsx ***!
-  \*****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-properties */ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptors */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptor */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-symbols */ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/keys */ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js");
-/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/styles */ "../../node_modules/@material-ui/core/esm/styles/index.js");
-
-
-
-
-
-
-
-
-function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(target, key, source[key]); }); } else if (_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default.a) { _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default()(target, _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default()(source)); } else { ownKeys(Object(source)).forEach(function (key) { _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default()(target, key, _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(source, key)); }); } } return target; }
-
-/* eslint-disable */
-
-var theme = {
+/* harmony default export */ __webpack_exports__["default"] = (Object(_erig_common_base_theme__WEBPACK_IMPORTED_MODULE_0__["getBaseTheme"])({
   typography: {
     useNextVariants: true,
     fontFamily: "'Poppins', sans-serif"
@@ -44483,29 +44540,18 @@ var theme = {
       variant: "body1"
     }
   }
-};
-var mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__["createMuiTheme"])(theme);
-mergedTheme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_7__["responsiveFontSizes"])(mergedTheme);
-
-var req = __webpack_require__("./src/theme/components sync recursive .js$");
-
-var overrides = {};
-req.keys().forEach(function (filename) {
-  overrides = _objectSpread({}, overrides, {}, req(filename)["default"](mergedTheme));
-});
-mergedTheme.overrides = overrides;
-/* harmony default export */ __webpack_exports__["default"] = (mergedTheme);
+}));
 
 /***/ }),
 
 /***/ 1:
-/*!**************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDocuments%5Chello-render%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx ***!
-  \**************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDesktop%5Cprivate-label-sites-master%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx ***!
+  \**************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDocuments%5Chello-render%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx! */"../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDocuments%5Chello-render%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDesktop%5Cprivate-label-sites-master%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx! */"../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Cholly%5CDesktop%5Cprivate-label-sites-master%5Cpackages%5Csite-a%5Csrc%5Cpages%5Cindex.jsx!./");
 
 
 /***/ }),

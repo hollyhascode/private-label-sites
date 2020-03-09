@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/polyfills.js"],{
 
 /***/ "../../node_modules/next/dist/client/polyfills.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/next/dist/client/polyfills.js ***!
-  \****************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/next/dist/client/polyfills.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -50,9 +50,9 @@ module.exports = g;
 /***/ }),
 
 /***/ "../../node_modules/object-assign/index.js":
-/*!*********************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/object-assign/index.js ***!
-  \*********************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/object-assign/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -152,9 +152,9 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 /***/ }),
 
 /***/ "../../node_modules/url-polyfill/url-polyfill.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/url-polyfill/url-polyfill.js ***!
-  \***************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/url-polyfill/url-polyfill.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -647,9 +647,9 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 /***/ }),
 
 /***/ "../../node_modules/whatwg-fetch/dist/fetch.umd.js":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/holly/Documents/hello-render/node_modules/whatwg-fetch/dist/fetch.umd.js ***!
-  \*****************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/holly/Desktop/private-label-sites-master/node_modules/whatwg-fetch/dist/fetch.umd.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

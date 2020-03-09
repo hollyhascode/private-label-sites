@@ -1,1 +1,1 @@
-{"name":"@erig/site-a","version":"1.0.0","scripts":{"dev":"next -p 8000","build":"next build"},"readme":"ERROR: No README data found!","_id":"@erig/site-a@1.0.0"}
+{"name":"@erig/site-a","version":"1.0.0","license":"UNLICENSED","scripts":{"next":"next -p 8000","dev":"yarn run next","build":"yarn run next build"},"readme":"ERROR: No README data found!","_id":"@erig/site-a@1.0.0"}
